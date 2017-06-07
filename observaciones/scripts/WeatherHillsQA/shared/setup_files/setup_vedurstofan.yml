@@ -1,0 +1,360 @@
+- {has: 3.0, lat: 65.262, lon: 14.009, name: Seyðisfjörður, ref: vi.is.sf, ref_provider: 615, ref_wmo: null}
+- {has: 9.0, lat: 65.268, lon: 13.576, name: Dalatangi, ref: vi.is.dt, ref_provider: 620, ref_wmo: 4097}
+- {has: 29.0, lat: 65.15, lon: 13.667, name: Neskaupstaður veðurfarsstöð, ref: vi.is.nkau, ref_provider: 625, ref_wmo: null}
+- {has: 41.5, lat: 65.0363, lon: 14.2403, name: Kollaleira, ref: vi.is.kll, ref_provider: 635, ref_wmo: 4091}
+- {has: 20.0, lat: 64.933, lon: 13.7, name: Vattarnes, ref: vi.is.vttr, ref_provider: 641, ref_wmo: null}
+- {has: 20.0, lat: 64.8, lon: 13.85, name: Kambanes, ref: vi.is.kmb, ref_provider: 660, ref_wmo: 4096}
+- {has: 10.0, lat: 65.6873, lon: 21.6813, name: Hólmavík, ref: vi.is.holma, ref_provider: 2481, ref_wmo: 4935}
+- {has: 25.0, lat: 64.7, lon: 14.1, name: Núpur, ref: vi.is.npr, ref_provider: 670, ref_wmo: 4094}
+- {has: 22.6, lat: 64.676, lon: 14.345, name: Teigarhorn, ref: vi.is.tgh, ref_provider: 675, ref_wmo: null}
+- {has: 25.0, lat: 64.6562, lon: 14.2882, name: Djúpivogur, ref: vi.is.djv, ref_provider: 676, ref_wmo: 4092}
+- {has: 19.0, lat: 64.583, lon: 14.167, name: Papey, ref: vi.is.pap, ref_provider: 680, ref_wmo: null}
+- {has: 10.0, lat: 64.267, lon: 14.983, name: Horn í Hornafirði, ref: vi.is.horn, ref_provider: 701, ref_wmo: null}
+- {has: 5.0, lat: 64.283, lon: 14.967, name: Stokksnes, ref: vi.is.stkn, ref_provider: 702, ref_wmo: null}
+- {has: 3.88, lat: 64.2557, lon: 15.209, name: Höfn í Hornafirði, ref: vi.is.hofn, ref_provider: 705, ref_wmo: 4082}
+- {has: 9.0, lat: 64.283, lon: 15.217, name: Hjarðarnes, ref: vi.is.hjrn, ref_provider: 706, ref_wmo: 4082}
+- {has: 17.0, lat: 64.31, lon: 15.221, name: Akurnes, ref: vi.is.anes, ref_provider: 707, ref_wmo: 4082}
+- {has: 16.0, lat: 64.3, lon: 15.19, name: Hólar í Hornafirði, ref: vi.is.hol, ref_provider: 710, ref_wmo: null}
+- {has: 15.0, lat: 64.317, lon: 15.267, name: Bjarnarnes, ref: vi.is.bjrn, ref_provider: 712, ref_wmo: null}
+- {has: 38.3, lat: 63.877, lon: 16.647, name: Fagurhólsmýri, ref: vi.is.fghm, ref_provider: 745, ref_wmo: 4072}
+- {has: 90.0, lat: 63.95, lon: 16.8, name: Sandfell í Öræfum, ref: vi.is.sndf, ref_provider: 747, ref_wmo: null}
+- {has: 29.5, lat: 63.7895, lon: 18.0543, name: Kirkjubæjarklaustur, ref: vi.is.kbkl, ref_provider: 772, ref_wmo: 4064}
+- {has: 20.0, lat: 63.5, lon: 18.333, name: Mýrar í Álftaveri, ref: vi.is.myr, ref_provider: 790, ref_wmo: null}
+- {has: 18.0, lat: 63.508, lon: 18.372, name: Norðurhjáleiga, ref: vi.is.nrdh, ref_provider: 791, ref_wmo: 4062}
+- {has: 15.0, lat: 63.42, lon: 19.01, name: Vík í Mýrdal, ref: vi.is.vik, ref_provider: 798, ref_wmo: 4060}
+- {has: 16.0, lat: 63.417, lon: 19.15, name: Loftsalir, ref: vi.is.lfts, ref_provider: 801, ref_wmo: 4058}
+- {has: 20.0, lat: 63.4236, lon: 19.183, name: Vatnsskarðshólar, ref: vi.is.vtns, ref_provider: 802, ref_wmo: 4058}
+- {has: 10.0, lat: 63.748, lon: 20.617, name: Önnupartur, ref: vi.is.onp, ref_provider: 825, ref_wmo: null}
+- {has: 20.0, lat: 63.867, lon: 20.55, name: Berustaðir í Ásum, ref: vi.is.brst, ref_provider: 829, ref_wmo: null}
+- {has: 250.0, lat: 63.683, lon: 19.483, name: Básar á Goðalandi, ref: vi.is.bsr, ref_provider: 830, ref_wmo: 4052}
+- {has: 30.0, lat: 63.75, lon: 20.25, name: Kornvellir, ref: vi.is.krnv, ref_provider: 832, ref_wmo: null}
+- {has: 20.0, lat: 63.836, lon: 20.393, name: Hella, ref: vi.is.hll, ref_provider: 855, ref_wmo: 4044}
+- {has: 30.0, lat: 63.867, lon: 20.45, name: Rauðalækur, ref: vi.is.rdlk, ref_provider: 857, ref_wmo: null}
+- {has: 100.0, lat: 63.867, lon: 20.183, name: Akurhóll, ref: vi.is.akh, ref_provider: 868, ref_wmo: null}
+- {has: 584.0, lat: 64.383, lon: 18.767, name: Þórisós, ref: vi.is.tros, ref_provider: 883, ref_wmo: null}
+- {has: 672.0, lat: 64.3, lon: 18.25, name: Jökulheimar, ref: vi.is.jklh, ref_provider: 885, ref_wmo: null}
+- {has: 420.0, lat: 64.2, lon: 19.233, name: Hrauneyjafoss, ref: vi.is.hrnf, ref_provider: 887, ref_wmo: null}
+- {has: 610.0, lat: 64.45, lon: 18.75, name: Versalir, ref: vi.is.vrsl, ref_provider: 888, ref_wmo: 4066}
+- {has: 641.0, lat: 64.867, lon: 19.562, name: Hveravellir, ref: vi.is.hvrv, ref_provider: 892, ref_wmo: 4056}
+- {has: 425.0, lat: 64.617, lon: 19.75, name: Hvítárnes, ref: vi.is.hvtn, ref_provider: 897, ref_wmo: null}
+- {has: 249.0, lat: 64.083, lon: 19.733, name: Búrfell, ref: vi.is.bur, ref_provider: 899, ref_wmo: null}
+- {has: 135.0, lat: 64.288, lon: 20.162, name: Jaðar, ref: vi.is.jdr, ref_provider: 902, ref_wmo: null}
+- {has: 195.0, lat: 64.267, lon: 20.183, name: Hlíð í Hrunamannahreppi, ref: vi.is.hlhr, ref_provider: 903, ref_wmo: null}
+- {has: 100.0, lat: 64.067, lon: 20.333, name: Hrepphólar, ref: vi.is.hrpp, ref_provider: 905, ref_wmo: null}
+- {has: 130.0, lat: 64.067, lon: 20.183, name: Stórinúpur, ref: vi.is.stnp, ref_provider: 906, ref_wmo: null}
+- {has: 121.0, lat: 64.065, lon: 20.241, name: Hæll, ref: vi.is.hall, ref_provider: 907, ref_wmo: 4050}
+- {has: 5.0, lat: 63.865, lon: 21.15, name: Eyrarbakki, ref: vi.is.eb, ref_provider: 923, ref_wmo: 4038}
+- {has: 5.0, lat: 63.917, lon: 21.167, name: Kaldaðarnes, ref: vi.is.kldn, ref_provider: 925, ref_wmo: null}
+- {has: 89.0, lat: 64.25, lon: 20.331, name: Hjarðarland, ref: vi.is.hjrl, ref_provider: 931, ref_wmo: 4042}
+- {has: 113.0, lat: 64.25, lon: 21.117, name: Þingvellir, ref: vi.is.tv, ref_provider: 945, ref_wmo: 4040}
+- {has: 125.0, lat: 64.2, lon: 21.233, name: Heiðarbær, ref: vi.is.hdbr, ref_provider: 949, ref_wmo: 4040}
+- {has: 157.0, lat: 64.15, lon: 21.25, name: Nesjavellir, ref: vi.is.nsjv, ref_provider: 951, ref_wmo: null}
+- {has: 95.0, lat: 64.1, lon: 21.05, name: Úlfljótsvatn, ref: vi.is.ulfv, ref_provider: 954, ref_wmo: null}
+- {has: 66.0, lat: 64.1, lon: 21.017, name: Írafoss, ref: vi.is.iraf, ref_provider: 956, ref_wmo: null}
+- {has: 51.0, lat: 64.0, lon: 21.183, name: Reykir í Ölfusi, ref: vi.is.rkr, ref_provider: 957, ref_wmo: null}
+- {has: 40.0, lat: 64.0, lon: 21.2, name: Hveragerði, ref: vi.is.hvrg, ref_provider: 959, ref_wmo: null}
+- {has: 19.0, lat: 63.95, lon: 21.2, name: Arnarbæli, ref: vi.is.arnb, ref_provider: 965, ref_wmo: null}
+- {has: 180.0, lat: 63.883, lon: 22.067, name: Krísuvík, ref: vi.is.krv, ref_provider: 972, ref_wmo: null}
+- {has: 40.0, lat: 63.883, lon: 22.433, name: Svartsengi, ref: vi.is.svrt, ref_provider: 982, ref_wmo: null}
+- {has: 20.0, lat: 63.817, lon: 22.717, name: Reykjanes, ref: vi.is.rkn, ref_provider: 985, ref_wmo: 4014}
+- {has: 5.0, lat: 64.05, lon: 22.7, name: Sandgerði, ref: vi.is.sndg, ref_provider: 987, ref_wmo: null}
+- {has: 5.0, lat: 63.983, lon: 22.55, name: Njarðvík, ref: vi.is.njard, ref_provider: 1357, ref_wmo: null}
+- {has: 4.0, lat: 63.85, lon: 22.417, name: Grindavík, ref: vi.is.grind, ref_provider: 1362, ref_wmo: 4120}
+- {has: 47.0, lat: 63.991, lon: 22.171, name: Afstapahraun, ref: vi.is.afstp, ref_provider: 1368, ref_wmo: 4826}
+- {has: 20.0, lat: 64.02, lon: 22.092, name: Hvassahraun, ref: vi.is.hvass, ref_provider: 1370, ref_wmo: 4824}
+- {has: 5.0, lat: 63.867, lon: 21.367, name: Þorlákshöfn, ref: vi.is.torlh, ref_provider: 1391, ref_wmo: 4140}
+- {has: 5.0, lat: 64.05, lon: 22.717, name: Sandgerði, ref: vi.is.sandg, ref_provider: 1452, ref_wmo: null}
+- {has: 4.0, lat: 64.082, lon: 22.689, name: Garðskagaviti, ref: vi.is.garsk, ref_provider: 1453, ref_wmo: 4116}
+- {has: 7.0, lat: 64.0438, lon: 22.0404, name: Straumsvík, ref: vi.is.strau, ref_provider: 1473, ref_wmo: 4124}
+- {has: 52.0, lat: 64.128, lon: 21.902, name: Reykjavík sjálfvirk stöð, ref: vi.is.reitr, ref_provider: 1475, ref_wmo: 4130}
+- {has: 12.0, lat: 64.129, lon: 21.941, name: Reykjavíkurflugvöllur, ref: vi.is.rflug, ref_provider: 1477, ref_wmo: 4838}
+- {has: 35.0, lat: 64.15, lon: 21.75, name: Korpa, ref: vi.is.korpa, ref_provider: 1479, ref_wmo: 4132}
+- {has: 35.0, lat: 64.168, lon: 21.804, name: Geldinganes, ref: vi.is.geldn, ref_provider: 1480, ref_wmo: 4880}
+- {has: 240.0, lat: 64.104, lon: 21.545, name: Miðdalsheiði, ref: vi.is.midhe, ref_provider: 1483, ref_wmo: 4830}
+- {has: 530.0, lat: 63.98, lon: 21.656, name: Bláfjöll úrkomustöð, ref: vi.is.blafu, ref_provider: 1485, ref_wmo: 4850}
+- {has: 530.0, lat: 63.969, lon: 21.666, name: Bláfjöll, ref: vi.is.blafj, ref_provider: 1486, ref_wmo: 4138}
+- {has: 530.0, lat: 63.9831, lon: 21.6497, name: Bláfjallaskáli, ref: vi.is.blafs, ref_provider: 1487, ref_wmo: 4852}
+- {has: 380.0, lat: 64.033, lon: 21.367, name: Hellisskarð, ref: vi.is.hells, ref_provider: 1490, ref_wmo: 4862}
+- {has: 360.0, lat: 64.055, lon: 21.253, name: Ölkelduháls, ref: vi.is.olkel, ref_provider: 1493, ref_wmo: 4864}
+- {has: 270.0, lat: 64.036, lon: 21.4, name: Kolviðarhóll I, ref: vi.is.kolv1, ref_provider: 1494, ref_wmo: 4896}
+- {has: 270.0, lat: 64.039, lon: 21.399, name: Kolviðarhóll II, ref: vi.is.kolv2, ref_provider: 1495, ref_wmo: 4898}
+- {has: 5.0, lat: 64.317, lon: 22.083, name: Akranes, ref: vi.is.akran, ref_provider: 1570, ref_wmo: 4122}
+- {has: 5.0, lat: 64.067, lon: 21.983, name: Hafnarfjörður, ref: vi.is.hafjo, ref_provider: 1573, ref_wmo: null}
+- {has: 5.0, lat: 64.15, lon: 21.933, name: Reykjavíkurhöfn, ref: vi.is.rvkho, ref_provider: 1574, ref_wmo: null}
+- {has: 5.0, lat: 64.167, lon: 21.933, name: Eyjargrandi í Reykjavík, ref: vi.is.rvkor, ref_provider: 1575, ref_wmo: null}
+- {has: 5.0, lat: 64.15, lon: 21.867, name: Sundahöfn í Reykjavík, ref: vi.is.rvksu, ref_provider: 1576, ref_wmo: null}
+- {has: 20.0, lat: 64.232, lon: 21.805, name: Skrauthólar, ref: vi.is.skrau, ref_provider: 1578, ref_wmo: 4818}
+- {has: 771.0, lat: 64.241, lon: 21.463, name: Skálafell, ref: vi.is.sfell, ref_provider: 1590, ref_wmo: 4136}
+- {has: 110.0, lat: 64.28, lon: 21.088, name: Þingvellir, ref: vi.is.tingv, ref_provider: 1596, ref_wmo: 4142}
+- {has: 40.0, lat: 64.396, lon: 22.008, name: Ás í Melasveit, ref: vi.is.asmel, ref_provider: 1672, ref_wmo: 4828}
+- {has: 20.0, lat: 64.465, lon: 21.963, name: Hafnarmelar, ref: vi.is.hamel, ref_provider: 1673, ref_wmo: 4128}
+- {has: 5.0, lat: 64.35, lon: 21.783, name: Grundartangi, ref: vi.is.grund, ref_provider: 1678, ref_wmo: 4126}
+- {has: 53.0, lat: 64.388, lon: 21.417, name: Þyrill, ref: vi.is.tyril, ref_provider: 1685, ref_wmo: 4806}
+- {has: 500.5, lat: 64.453, lon: 21.403, name: Botnsheiði, ref: vi.is.botns, ref_provider: 1689, ref_wmo: 4814}
+- {has: 12.4, lat: 64.567, lon: 21.767, name: Hvanneyri, ref: vi.is.hveyr, ref_provider: 1779, ref_wmo: 4134}
+- {has: 115.0, lat: 64.727, lon: 21.63, name: Litla-Skarð, ref: vi.is.litsk, ref_provider: 1881, ref_wmo: 4112}
+- {has: 7.0, lat: 64.9, lon: 23.933, name: Gufuskálar, ref: vi.is.gufus, ref_provider: 1919, ref_wmo: 4104}
+- {has: 15.0, lat: 64.895, lon: 23.714, name: Ólafsvík, ref: vi.is.olvik, ref_provider: 1924, ref_wmo: 4106}
+- {has: 4.7, lat: 64.9, lon: 23.717, name: Ólafsvíkurhöfn, ref: vi.is.olvho, ref_provider: 1925, ref_wmo: 4102}
+- {has: 13.0, lat: 64.839, lon: 23.301, name: Bláfeldur sjálfvirk stöð, ref: vi.is.blafe, ref_provider: 1936, ref_wmo: 4110}
+- {has: 10.0, lat: 64.917, lon: 23.233, name: Grundarfjörður, ref: vi.is.grufj, ref_provider: 1938, ref_wmo: 4108}
+- {has: 50.0, lat: 65.23, lon: 21.754, name: Ásgarður sjálfvirk stöð, ref: vi.is.asgar, ref_provider: 2175, ref_wmo: 4133}
+- {has: 15.0, lat: 65.254, lon: 21.098, name: Reykir í Hrútafirði sjálfvirk stöð, ref: vi.is.rhrut, ref_provider: 2197, ref_wmo: 4139}
+- {has: 6.7, lat: 65.438, lon: 22.206, name: Reykhólar sjálfvirk stöð, ref: vi.is.rehol, ref_provider: 2266, ref_wmo: 4129}
+- {has: 4.0, lat: 65.6, lon: 24.0, name: Patrekshöfn, ref: vi.is.patrh, ref_provider: 2318, ref_wmo: 4103}
+- {has: 43.0, lat: 65.595, lon: 23.975, name: Patreksfjörður, ref: vi.is.patro, ref_provider: 2319, ref_wmo: 4105}
+- {has: 16.0, lat: 65.679, lon: 23.612, name: Bíldudalur, ref: vi.is.bildu, ref_provider: 2428, ref_wmo: 4125}
+- {has: 615.0, lat: 65.7, lon: 23.083, name: Dynjandiheiði I, ref: vi.is.dynjh, ref_provider: 2443, ref_wmo: 4115}
+- {has: 297.0, lat: 65.65, lon: 22.8, name: Þingmannaheiði I, ref: vi.is.tinhe, ref_provider: 2453, ref_wmo: 4119}
+- {has: 510.0, lat: 65.657, lon: 23.003, name: Þingmannaheiði, ref: vi.is.tmhei, ref_provider: 2454, ref_wmo: 4119}
+- {has: 3.0, lat: 66.05, lon: 23.51, name: Flateyri, ref: vi.is.feyri, ref_provider: 2631, ref_wmo: 4113}
+- {has: 753.0, lat: 66.044, lon: 23.307, name: Þverfjall, ref: vi.is.tverf, ref_provider: 2636, ref_wmo: 4109}
+- {has: 550.0, lat: 66.076, lon: 23.199, name: Seljalandsdalur, ref: vi.is.selja, ref_provider: 2640, ref_wmo: 4107}
+- {has: 2.2, lat: 66.06, lon: 23.17, name: Ísafjörður, ref: vi.is.isafj, ref_provider: 2642, ref_wmo: 4117}
+- {has: 10.9, lat: 66.043, lon: 22.986, name: Súðavík, ref: vi.is.sudav, ref_provider: 2646, ref_wmo: 4111}
+- {has: 31.0, lat: 65.983, lon: 21.35, name: Gjögurflugvöllur, ref: vi.is.gjogr, ref_provider: 2692, ref_wmo: 4131}
+- {has: 27.0, lat: 66.161, lon: 23.254, name: Bolungarvík sjálfvirk stöð, ref: vi.is.bolun, ref_provider: 2738, ref_wmo: 4127}
+- {has: 22.0, lat: 66.417, lon: 22.383, name: Hornbjargsviti, ref: vi.is.hornb, ref_provider: 2862, ref_wmo: 4123}
+- {has: 7.0, lat: 66.433, lon: 23.133, name: Straumnesviti, ref: vi.is.strnv, ref_provider: 2941, ref_wmo: 4121}
+- {has: 785.0, lat: 65.063, lon: 18.838, name: Sáta, ref: vi.is.satax, ref_provider: 3054, ref_wmo: 4861}
+- {has: 130.0, lat: 65.184, lon: 20.785, name: Haugur sjálfvirk stöð, ref: vi.is.haugr, ref_provider: 3103, ref_wmo: 4143}
+- {has: 20.0, lat: 65.3784, lon: 20.2473, name: Brúsastaðir sjálfvirk stöð, ref: vi.is.brusa, ref_provider: 3223, ref_wmo: 4147}
+- {has: 504.0, lat: 65.233, lon: 19.717, name: Kolka, ref: vi.is.kolka, ref_provider: 3225, ref_wmo: 4149}
+- {has: 115.0, lat: 65.458, lon: 19.369, name: Nautabú sjálfvirk stöð, ref: vi.is.nauta, ref_provider: 3242, ref_wmo: 4135}
+- {has: 405.0, lat: 65.333, lon: 17.25, name: Svartárkot sjálfvirk stöð, ref: vi.is.svkot, ref_provider: 3292, ref_wmo: 4153}
+- {has: 8.0, lat: 65.658, lon: 20.292, name: Blönduós, ref: vi.is.bldos, ref_provider: 3317, ref_wmo: 4145}
+- {has: 220.0, lat: 65.585, lon: 17.767, name: Reykir í Fnjóskadal, ref: vi.is.reykf, ref_provider: 3380, ref_wmo: 4867}
+- {has: 15.0, lat: 65.771, lon: 18.251, name: Möðruvellir, ref: vi.is.modru, ref_provider: 3463, ref_wmo: 4167}
+- {has: 23.0, lat: 65.686, lon: 18.1, name: Akureyri lögreglustöð, ref: vi.is.akeyr, ref_provider: 3470, ref_wmo: 4937}
+- {has: 580.0, lat: 65.748, lon: 18.001, name: Vaðlaheiði, ref: vi.is.vadla, ref_provider: 3474, ref_wmo: 4163}
+- {has: 120.0, lat: 65.817, lon: 17.886, name: Végeirsstaðir í Fnjóskadal, ref: vi.is.vegei, ref_provider: 3477, ref_wmo: 4141}
+- {has: 5.0, lat: 66.074, lon: 18.666, name: Ólafsfjörður, ref: vi.is.olfjo, ref_provider: 3658, ref_wmo: 4155}
+- {has: 4.0, lat: 65.974, lon: 18.526, name: Dalvík, ref: vi.is.dalvk, ref_provider: 3662, ref_wmo: 4161}
+- {has: 2.5, lat: 66.033, lon: 17.35, name: Húsavíkurhöfn, ref: vi.is.husav, ref_provider: 3691, ref_wmo: 4863}
+- {has: 14.9, lat: 66.077, lon: 17.361, name: Bakkahöfði við Húsavík, ref: vi.is.husbk, ref_provider: 3692, ref_wmo: 4845}
+- {has: 15.9, lat: 66.024, lon: 17.379, name: Gvendarbás við Húsavík, ref: vi.is.husgv, ref_provider: 3693, ref_wmo: 4847}
+- {has: 194.0, lat: 66.054, lon: 17.319, name: Húsavíkurfjall, ref: vi.is.husfj, ref_provider: 3694, ref_wmo: 4849}
+- {has: 28.2, lat: 66.042, lon: 17.328, name: Húsavík, ref: vi.is.husvk, ref_provider: 3696, ref_wmo: 4171}
+- {has: 9.0, lat: 66.117, lon: 20.1, name: Skagatá, ref: vi.is.skagt, ref_provider: 3720, ref_wmo: 4151}
+- {has: 6.0, lat: 66.135, lon: 18.919, name: Siglufjörður, ref: vi.is.sifjo, ref_provider: 3752, ref_wmo: 4157}
+- {has: 8.0, lat: 66.194, lon: 18.843, name: Siglunes, ref: vi.is.sines, ref_provider: 3754, ref_wmo: 4159}
+- {has: 16.0, lat: 66.533, lon: 18.017, name: Grímsey sjálfvirk stöð I, ref: vi.is.grims, ref_provider: 3975, ref_wmo: 4165}
+- {has: 563.0, lat: 65.061, lon: 16.21, name: Upptyppingar, ref: vi.is.uppty, ref_provider: 4019, ref_wmo: 4177}
+- {has: 552.0, lat: 65.079, lon: 16.207, name: Krepputunga I, ref: vi.is.krepp, ref_provider: 4020, ref_wmo: null}
+- {has: 60.0, lat: 65.094, lon: 14.745, name: Hallormsstaður, ref: vi.is.hallm, ref_provider: 4060, ref_wmo: 4189}
+- {has: 92.4, lat: 65.281, lon: 14.0, name: Seyðisfjörður, ref: vi.is.seyfj, ref_provider: 4180, ref_wmo: 4195}
+- {has: 10.0, lat: 65.268, lon: 13.575, name: Dalatangi sjálfvirk stöð, ref: vi.is.dalat, ref_provider: 4193, ref_wmo: 4197}
+- {has: 23.5, lat: 65.276, lon: 14.405, name: Egilsstaðaflugvöllur sjálfvirk stöð, ref: vi.is.egils, ref_provider: 4271, ref_wmo: 4191}
+- {has: 949.0, lat: 65.224, lon: 14.259, name: Gagnheiði, ref: vi.is.gagnh, ref_provider: 4275, ref_wmo: 4193}
+- {has: 282.3, lat: 65.62, lon: 16.977, name: Mývatn, ref: vi.is.myvtn, ref_provider: 4300, ref_wmo: 4173}
+- {has: 347.0, lat: 65.63, lon: 16.837, name: Bjarnarflag, ref: vi.is.bflag, ref_provider: 4303, ref_wmo: 4885}
+- {has: 20.0, lat: 65.783, lon: 14.317, name: Bjarnarey, ref: vi.is.bjarn, ref_provider: 4472, ref_wmo: 4187}
+- {has: 38.0, lat: 66.03, lon: 16.483, name: Ásbyrgi, ref: vi.is.asbrg, ref_provider: 4614, ref_wmo: 4179}
+- {has: 450.0, lat: 65.375, lon: 15.883, name: Möðrudalur sjálfvirk stöð, ref: vi.is.modal, ref_provider: 4830, ref_wmo: 4181}
+- {has: 43.0, lat: 66.378, lon: 14.533, name: Fontur, ref: vi.is.fontr, ref_provider: 4867, ref_wmo: 4183}
+- {has: 59.3, lat: 66.508, lon: 16.544, name: Rauðinúpur, ref: vi.is.raudi, ref_provider: 4912, ref_wmo: 4175}
+- {has: 57.2, lat: 63.802, lon: 16.638, name: Ingólfshöfði, ref: vi.is.ingol, ref_provider: 5210, ref_wmo: 4884}
+- {has: 16.0, lat: 63.8743, lon: 16.6364, name: Fagurhólsmýri sjálfvirk stöð, ref: vi.is.fagho, ref_provider: 5309, ref_wmo: 4174}
+- {has: 17.0, lat: 64.31, lon: 15.221, name: Akurnes sjálfvirk stöð, ref: vi.is.akurn, ref_provider: 5548, ref_wmo: 4192}
+- {has: 49.0, lat: 64.6, lon: 14.167, name: Papey, ref: vi.is.papey, ref_provider: 5777, ref_wmo: 4194}
+- {has: 855.0, lat: 64.772, lon: 15.052, name: Sauðahnjúkur, ref: vi.is.shnju, ref_provider: 5853, ref_wmo: 4882}
+- {has: 590.0, lat: 64.798, lon: 14.79, name: Líkárvatn, ref: vi.is.likar, ref_provider: 5860, ref_wmo: 4888}
+- {has: 20.7, lat: 64.676, lon: 14.344, name: Teigarhorn sjálfvirk stöð, ref: vi.is.teiga, ref_provider: 5872, ref_wmo: 4184}
+- {has: 29.8, lat: 64.801, lon: 13.842, name: Kambanes, ref: vi.is.kamba, ref_provider: 5885, ref_wmo: 4196}
+- {has: 639.0, lat: 64.928, lon: 15.777, name: Kárahnjúkar, ref: vi.is.karah, ref_provider: 5933, ref_wmo: 4176}
+- {has: 373.0, lat: 65.109, lon: 15.53, name: Brú á Jökuldal, ref: vi.is.brujd, ref_provider: 5940, ref_wmo: 4169}
+- {has: 655.32, lat: 64.815, lon: 15.424, name: Eyjabakkar, ref: vi.is.eyjab, ref_provider: 5943, ref_wmo: 4178}
+- {has: 655.0, lat: 64.917, lon: 15.35, name: Stórilækur, ref: vi.is.storl, ref_provider: 5945, ref_wmo: null}
+- {has: 573.11, lat: 65.079, lon: 14.675, name: Hallormsstaðaháls, ref: vi.is.hhals, ref_provider: 5960, ref_wmo: 4190}
+- {has: 43.0, lat: 65.037, lon: 14.24, name: Kollaleira sjálfvirk stöð, ref: vi.is.kolla, ref_provider: 5975, ref_wmo: 4186}
+- {has: 2.0, lat: 65.076, lon: 14.037, name: Eskifjörður, ref: vi.is.eskif, ref_provider: 5981, ref_wmo: 4185}
+- {has: 5.0, lat: 64.937, lon: 13.685, name: Vattarnes, ref: vi.is.vatta, ref_provider: 5988, ref_wmo: 4188}
+- {has: 49.7, lat: 65.15, lon: 13.669, name: Neskaupstaður sjálfvirk stöð, ref: vi.is.nkaup, ref_provider: 5990, ref_wmo: 4199}
+- {has: 60.0, lat: 65.152, lon: 13.684, name: Neskaupstaður I, ref: vi.is.nkaus, ref_provider: 5991, ref_wmo: null}
+- {has: 18.0, lat: 64.983, lon: 13.517, name: Seley, ref: vi.is.seley, ref_provider: 5993, ref_wmo: 4198}
+- {has: 52.0, lat: 64.128, lon: 21.903, name: Reykjavík, ref: vi.is.rvk, ref_provider: 1, ref_wmo: 4030}
+- {has: 118.0, lat: 63.4, lon: 20.288, name: Stórhöfði, ref: vi.is.vm, ref_provider: 815, ref_wmo: 4048}
+- {has: 12.4, lat: 65.0717, lon: 22.7324, name: Stykkishólmur sjálfvirk stöð, ref: vi.is.stykk, ref_provider: 2050, ref_wmo: 4115}
+- {has: 281.0, lat: 65.043, lon: 14.162, name: Ljósá í Reyðarfirði, ref: vi.is.ljosa, ref_provider: 5977, ref_wmo: 4891}
+- {has: 17.0, lat: 66.45, lon: 22.45, name: Horn á Hornströndum, ref: vi.is.hrn, ref_provider: 284, ref_wmo: null}
+- {has: 125.0, lat: 65.25, lon: 20.767, name: Núpsdalstunga, ref: vi.is.npst, ref_provider: 317, ref_wmo: null}
+- {has: 60.0, lat: 65.667, lon: 15.05, name: Búastaðir, ref: vi.is.buas, ref_provider: 529, ref_wmo: null}
+- {has: 45.0, lat: 64.117, lon: 21.9, name: Sólland í Reykjavík, ref: vi.is.soll, ref_provider: 5, ref_wmo: null}
+- {has: 7.0, lat: 64.133, lon: 21.9, name: Gróðrarstöðin í Reykjavík, ref: vi.is.grsr, ref_provider: 6, ref_wmo: null}
+- {has: 4.0, lat: 64.067, lon: 21.967, name: Víðistaðir, ref: vi.is.vst, ref_provider: 10, ref_wmo: null}
+- {has: 87.0, lat: 64.083, lon: 21.717, name: Hólmur, ref: vi.is.hlm, ref_provider: 30, ref_wmo: null}
+- {has: 136.0, lat: 64.067, lon: 21.733, name: Heiðmörk, ref: vi.is.hdm, ref_provider: 35, ref_wmo: null}
+- {has: 35.0, lat: 64.15, lon: 21.75, name: Korpa, ref: vi.is.krp, ref_provider: 46, ref_wmo: null}
+- {has: 5.0, lat: 64.217, lon: 21.7, name: Mógilsá, ref: vi.is.mgls, ref_provider: 73, ref_wmo: null}
+- {has: 12.0, lat: 64.35, lon: 21.783, name: Grundartangi, ref: vi.is.grt, ref_provider: 93, ref_wmo: null}
+- {has: 7.0, lat: 64.317, lon: 22.083, name: Akranes, ref: vi.is.akrn, ref_provider: 95, ref_wmo: null}
+- {has: 20.0, lat: 64.417, lon: 21.833, name: Leirá, ref: vi.is.lra, ref_provider: 96, ref_wmo: null}
+- {has: 14.0, lat: 64.642, lon: 21.591, name: Stafholtsey, ref: vi.is.stey, ref_provider: 108, ref_wmo: 4034}
+- {has: 80.0, lat: 64.467, lon: 21.3, name: Fitjar, ref: vi.is.ft, ref_provider: 110, ref_wmo: null}
+- {has: 78.0, lat: 64.717, lon: 21.367, name: Síðumúli, ref: vi.is.sm, ref_provider: 126, ref_wmo: 4034}
+- {has: 46.0, lat: 64.667, lon: 21.617, name: Hamraendar í Stafholtstungum, ref: vi.is.hmst, ref_provider: 130, ref_wmo: 4034}
+- {has: 45.0, lat: 64.817, lon: 22.267, name: Haukatunga, ref: vi.is.hkt, ref_provider: 155, ref_wmo: 4026}
+- {has: 8.0, lat: 64.8, lon: 23.033, name: Neðri-Hóll, ref: vi.is.ndrh, ref_provider: 164, ref_wmo: 4010}
+- {has: 12.0, lat: 64.817, lon: 23.133, name: Garðar, ref: vi.is.grdr, ref_provider: 165, ref_wmo: 4010}
+- {has: 13.0, lat: 64.8393, lon: 23.3003, name: Bláfeldur, ref: vi.is.blfl, ref_provider: 167, ref_wmo: 4010}
+- {has: 20.0, lat: 64.767, lon: 23.633, name: Arnarstapi, ref: vi.is.arn, ref_provider: 168, ref_wmo: null}
+- {has: 7.0, lat: 64.9, lon: 23.933, name: Gufuskálar, ref: vi.is.gfsk, ref_provider: 170, ref_wmo: 4004}
+- {has: 12.0, lat: 64.917, lon: 23.883, name: Hellissandur, ref: vi.is.hsd, ref_provider: 171, ref_wmo: 4004}
+- {has: 825.0, lat: 64.8, lon: 23.7, name: Jökulháls, ref: vi.is.jokh, ref_provider: 172, ref_wmo: null}
+- {has: 13.18, lat: 65.074, lon: 22.7339, name: Stykkishólmur, ref: vi.is.sth, ref_provider: 178, ref_wmo: 4013}
+- {has: 55.0, lat: 65.017, lon: 21.7, name: Hamraendar, ref: vi.is.hmd, ref_provider: 188, ref_wmo: null}
+- {has: 80.0, lat: 65.167, lon: 21.65, name: Hróðnýjarstaðir, ref: vi.is.hrns, ref_provider: 191, ref_wmo: null}
+- {has: 20.0, lat: 65.1, lon: 21.783, name: Búðardalur, ref: vi.is.bd, ref_provider: 192, ref_wmo: 4027}
+- {has: 45.0, lat: 65.167, lon: 21.7, name: Ljárskógar, ref: vi.is.ljrs, ref_provider: 194, ref_wmo: null}
+- {has: 50.0, lat: 65.23, lon: 21.754, name: Ásgarður, ref: vi.is.asg, ref_provider: 195, ref_wmo: 4027}
+- {has: 40.0, lat: 65.217, lon: 21.767, name: Hvammur í Dölum, ref: vi.is.hvmm, ref_provider: 196, ref_wmo: null}
+- {has: 27.0, lat: 65.448, lon: 22.2, name: Reykhólar, ref: vi.is.rh, ref_provider: 206, ref_wmo: 4025}
+- {has: 25.0, lat: 65.45, lon: 22.25, name: Höllustaðir, ref: vi.is.hlls, ref_provider: 207, ref_wmo: null}
+- {has: 3.0, lat: 65.367, lon: 22.917, name: Flatey, ref: vi.is.fl, ref_provider: 210, ref_wmo: null}
+- {has: 4.0, lat: 65.493, lon: 24.0916, name: Lambavatn, ref: vi.is.lmbv, ref_provider: 220, ref_wmo: 4009}
+- {has: 17.0, lat: 65.533, lon: 24.467, name: Hvallátur, ref: vi.is.hval, ref_provider: 222, ref_wmo: 4001}
+- {has: 20.0, lat: 65.55, lon: 24.351, name: Breiðavík, ref: vi.is.brdv, ref_provider: 223, ref_wmo: 4001}
+- {has: 49.0, lat: 65.556, lon: 24.012, name: Kvígindisdalur, ref: vi.is.kvgd, ref_provider: 224, ref_wmo: 4003}
+- {has: 30.0, lat: 65.8679, lon: 23.5641, name: Hólar í Dýrafirði, ref: vi.is.hold, ref_provider: 234, ref_wmo: 4007}
+- {has: 55.0, lat: 65.933, lon: 23.6, name: Núpur í Dýrafirði, ref: vi.is.nprd, ref_provider: 237, ref_wmo: null}
+- {has: 3.0, lat: 66.05, lon: 23.5, name: Önundarfjörður, ref: vi.is.ondf, ref_provider: 239, ref_wmo: null}
+- {has: 20.0, lat: 66.017, lon: 23.467, name: Þórustaðir, ref: vi.is.tst, ref_provider: 240, ref_wmo: null}
+- {has: 3.0, lat: 66.133, lon: 23.533, name: Suðureyri, ref: vi.is.sdr, ref_provider: 248, ref_wmo: null}
+- {has: 20.0, lat: 66.167, lon: 23.567, name: Galtarviti, ref: vi.is.gltv, ref_provider: 250, ref_wmo: 4005}
+- {has: 5.0, lat: 66.1, lon: 22.66, name: Æðey, ref: vi.is.aed, ref_provider: 260, ref_wmo: 4017}
+- {has: 20.0, lat: 66.05, lon: 22.45, name: Ármúli, ref: vi.is.arm, ref_provider: 261, ref_wmo: null}
+- {has: 7.0, lat: 66.333, lon: 22.883, name: Hesteyri í Jökulfjörðum, ref: vi.is.hstr, ref_provider: 280, ref_wmo: null}
+- {has: 13.0, lat: 66.4, lon: 23.033, name: Aðalvík á Hornströndum, ref: vi.is.adal, ref_provider: 281, ref_wmo: null}
+- {has: 27.0, lat: 66.417, lon: 22.383, name: Hornbjargsviti, ref: vi.is.hbv, ref_provider: 285, ref_wmo: 4023}
+- {has: 10.0, lat: 66.25, lon: 22.1, name: Reykjafjörður, ref: vi.is.rkrf, ref_provider: 288, ref_wmo: null}
+- {has: 13.0, lat: 65.983, lon: 21.35, name: Kjörvogur, ref: vi.is.krvo, ref_provider: 290, ref_wmo: null}
+- {has: 15.0, lat: 66.0213, lon: 21.425, name: Litla-Ávík, ref: vi.is.ltav, ref_provider: 293, ref_wmo: 4031}
+- {has: 10.0, lat: 65.983, lon: 21.35, name: Grænhóll í Árneshreppi, ref: vi.is.grnh, ref_provider: 294, ref_wmo: null}
+- {has: 5.0, lat: 65.983, lon: 21.35, name: Gjögur, ref: vi.is.gjgr, ref_provider: 295, ref_wmo: 4031}
+- {has: 12.0, lat: 65.35, lon: 21.183, name: Kollsá í Hrútafirði, ref: vi.is.klls, ref_provider: 301, ref_wmo: null}
+- {has: 28.0, lat: 65.267, lon: 21.167, name: Hlaðhamar, ref: vi.is.hlh, ref_provider: 303, ref_wmo: null}
+- {has: 12.0, lat: 65.283, lon: 21.2, name: Hrútafjörður, ref: vi.is.hrut, ref_provider: 304, ref_wmo: null}
+- {has: 25.0, lat: 65.283, lon: 21.2, name: Bær í Hrútafirði, ref: vi.is.baer, ref_provider: 306, ref_wmo: null}
+- {has: 40.0, lat: 65.233, lon: 21.083, name: Þóroddsstaðir, ref: vi.is.trst, ref_provider: 309, ref_wmo: 4041}
+- {has: 8.0, lat: 65.283, lon: 21.1, name: Tannstaðabakki, ref: vi.is.tnst, ref_provider: 310, ref_wmo: 4041}
+- {has: 12.0, lat: 65.254, lon: 21.098, name: Reykir í Hrútafirði, ref: vi.is.rkh, ref_provider: 311, ref_wmo: 4041}
+- {has: 130.0, lat: 65.184, lon: 20.785, name: Haugur í Miðfirði, ref: vi.is.hgr, ref_provider: 313, ref_wmo: 4043}
+- {has: 114.0, lat: 65.203, lon: 20.773, name: Barkarstaðir, ref: vi.is.bark, ref_provider: 315, ref_wmo: null}
+- {has: 63.0, lat: 65.367, lon: 20.6, name: Víðidalstunga, ref: vi.is.vddl, ref_provider: 324, ref_wmo: null}
+- {has: 43.0, lat: 65.417, lon: 20.6, name: Lækjamót, ref: vi.is.lkjm, ref_provider: 326, ref_wmo: null}
+- {has: 10.0, lat: 65.4, lon: 20.267, name: Eyjólfsstaðir, ref: vi.is.eyls, ref_provider: 336, ref_wmo: null}
+- {has: 50.0, lat: 65.6, lon: 20.3, name: Torfalækur, ref: vi.is.trfl, ref_provider: 339, ref_wmo: null}
+- {has: 43.0, lat: 65.633, lon: 20.3, name: Hjaltabakki, ref: vi.is.hjlt, ref_provider: 340, ref_wmo: 4045}
+- {has: 23.0, lat: 65.658, lon: 20.303, name: Blönduós, ref: vi.is.blds, ref_provider: 341, ref_wmo: 4045}
+- {has: 4.0, lat: 65.667, lon: 20.3, name: Blönduós, ref: vi.is.blnd, ref_provider: 342, ref_wmo: 4045}
+- {has: 20.0, lat: 65.833, lon: 20.317, name: Skagaströnd/Hof, ref: vi.is.skgs, ref_provider: 348, ref_wmo: null}
+- {has: 3.0, lat: 66.017, lon: 20.417, name: Kálfshamarsvík, ref: vi.is.klfh, ref_provider: 349, ref_wmo: null}
+- {has: 3.0, lat: 66.1128, lon: 20.1105, name: Hraun á Skaga, ref: vi.is.hran, ref_provider: 352, ref_wmo: 4051}
+- {has: 5.0, lat: 65.75, lon: 19.65, name: Sauðárkrókur, ref: vi.is.sdrk, ref_provider: 360, ref_wmo: 4053}
+- {has: 43.0, lat: 65.703, lon: 19.613, name: Bergstaðir, ref: vi.is.brgs, ref_provider: 361, ref_wmo: 4053}
+- {has: 95.0, lat: 65.45, lon: 19.35, name: Mælifell, ref: vi.is.mlfl, ref_provider: 365, ref_wmo: null}
+- {has: 115.0, lat: 65.459, lon: 19.368, name: Nautabú, ref: vi.is.nb, ref_provider: 366, ref_wmo: 4055}
+- {has: 130.0, lat: 65.757, lon: 19.247, name: Dalsmynni, ref: vi.is.dlsm, ref_provider: 383, ref_wmo: null}
+- {has: 160.0, lat: 65.733, lon: 19.117, name: Hólar í Hjaltadal, ref: vi.is.holh, ref_provider: 385, ref_wmo: null}
+- {has: 150.0, lat: 65.767, lon: 19.117, name: Skriðuland, ref: vi.is.skrd, ref_provider: 388, ref_wmo: null}
+- {has: 52.0, lat: 66.1, lon: 19.067, name: Hraun í Fljótum, ref: vi.is.hrfl, ref_provider: 398, ref_wmo: null}
+- {has: 30.0, lat: 66.1852, lon: 18.9534, name: Sauðanesviti, ref: vi.is.sdnv, ref_provider: 400, ref_wmo: 4059}
+- {has: 8.0, lat: 66.183, lon: 18.833, name: Siglunes, ref: vi.is.sg, ref_provider: 402, ref_wmo: 4059}
+- {has: 18.0, lat: 66.183, lon: 18.783, name: Reyðará, ref: vi.is.rda, ref_provider: 403, ref_wmo: 4059}
+- {has: 15.0, lat: 66.533, lon: 18.017, name: Grímsey, ref: vi.is.gr, ref_provider: 404, ref_wmo: 4065}
+- {has: 10.0, lat: 65.9, lon: 18.283, name: Víkurbakki, ref: vi.is.vkb, ref_provider: 418, ref_wmo: null}
+- {has: 23.0, lat: 65.6856, lon: 18.1002, name: Akureyri, ref: vi.is.ak, ref_provider: 422, ref_wmo: 4063}
+- {has: 3.0, lat: 65.683, lon: 18.083, name: Gróðrarstöðin á Akureyri, ref: vi.is.grak, ref_provider: 423, ref_wmo: null}
+- {has: 3.0, lat: 65.667, lon: 18.083, name: Tilraunastöðin á Akureyri, ref: vi.is.tlak, ref_provider: 424, ref_wmo: null}
+- {has: null, lat: 66.0668, lon: 15.0799, name: Miðfjarðarnes, ref: vi.is.midfj, ref_provider: 4652, ref_wmo: 4983}
+- {has: 215.0, lat: 65.317, lon: 18.267, name: Torfufell, ref: vi.is.trf, ref_provider: 426, ref_wmo: null}
+- {has: 890.0, lat: 65.15, lon: 18.2, name: Nýibær, ref: vi.is.nyb, ref_provider: 428, ref_wmo: null}
+- {has: 20.0, lat: 65.683, lon: 18.083, name: Eyjafjörður, ref: vi.is.eyfj, ref_provider: 430, ref_wmo: null}
+- {has: 3.0, lat: 65.95, lon: 18.183, name: Grenivík, ref: vi.is.grev, ref_provider: 436, ref_wmo: null}
+- {has: 140.0, lat: 65.717, lon: 17.9, name: Vaglir II, ref: vi.is.vgl, ref_provider: 447, ref_wmo: null}
+- {has: 175.0, lat: 65.717, lon: 17.883, name: Lerkihlíð, ref: vi.is.lrh, ref_provider: 448, ref_wmo: null}
+- {has: 821.0, lat: 64.933, lon: 17.983, name: Sandbúðir, ref: vi.is.sdbd, ref_provider: 449, ref_wmo: 4075}
+- {has: 3.0, lat: 65.957, lon: 17.548, name: Sandur, ref: vi.is.sd, ref_provider: 452, ref_wmo: null}
+- {has: 265.0, lat: 65.433, lon: 17.35, name: Bjarnarstaðir, ref: vi.is.bjrs, ref_provider: 460, ref_wmo: null}
+- {has: 295.0, lat: 65.3764, lon: 17.3874, name: Mýri, ref: vi.is.myri, ref_provider: 462, ref_wmo: 4067}
+- {has: 300.0, lat: 65.533, lon: 17.0, name: Grænavatn, ref: vi.is.grnv, ref_provider: 466, ref_wmo: null}
+- {has: 320.0, lat: 65.55, lon: 17.133, name: Gautlönd, ref: vi.is.gtl, ref_provider: 467, ref_wmo: null}
+- {has: 285.0, lat: 65.65, lon: 16.917, name: Reykjahlíð, ref: vi.is.rkhl, ref_provider: 468, ref_wmo: null}
+- {has: 165.0, lat: 65.733, lon: 17.25, name: Þverá í Laxárdal, ref: vi.is.tvrl, ref_provider: 470, ref_wmo: null}
+- {has: 42.0, lat: 65.8194, lon: 17.3459, name: Staðarhóll, ref: vi.is.sthl, ref_provider: 473, ref_wmo: 4069}
+- {has: 30.0, lat: 66.033, lon: 17.35, name: Húsavík, ref: vi.is.hvk, ref_provider: 477, ref_wmo: null}
+- {has: 70.0, lat: 66.15, lon: 17.25, name: Hallbjarnarstaðir, ref: vi.is.hllb, ref_provider: 478, ref_wmo: null}
+- {has: 17.0, lat: 66.1995, lon: 17.1032, name: Mánárbakki, ref: vi.is.mnbk, ref_provider: 479, ref_wmo: 4071}
+- {has: 5.0, lat: 66.083, lon: 16.85, name: Ólafsgerði, ref: vi.is.olfg, ref_provider: 482, ref_wmo: null}
+- {has: 22.0, lat: 66.067, lon: 16.767, name: Garður, ref: vi.is.grd, ref_provider: 484, ref_wmo: null}
+- {has: 15.0, lat: 66.083, lon: 16.683, name: Kelduneskot, ref: vi.is.kldk, ref_provider: 485, ref_wmo: null}
+- {has: 480.0, lat: 65.2, lon: 16.233, name: Herðubreiðalindir, ref: vi.is.hbl, ref_provider: 489, ref_wmo: null}
+- {has: null, lat: 65.4924, lon: 24.0925, name: Lambavatn, ref: vi.is.lamba, ref_provider: 2315, ref_wmo: 4809}
+- {has: 384.0, lat: 65.6423, lon: 16.1208, name: Grímsstaðir, ref: vi.is.grst, ref_provider: 495, ref_wmo: 4073}
+- {has: 6.4, lat: 66.4513, lon: 15.9486, name: Raufarhöfn, ref: vi.is.rfh, ref_provider: 505, ref_wmo: 4077}
+- {has: 22.0, lat: 66.2, lon: 15.6, name: Syðra-Lón/Flaga/Kúðá, ref: vi.is.slon, ref_provider: 506, ref_wmo: null}
+- {has: 10.0, lat: 66.2, lon: 15.333, name: Þórshöfn, ref: vi.is.trsh, ref_provider: 507, ref_wmo: null}
+- {has: 20.5, lat: 66.247, lon: 15.262, name: Sauðanes, ref: vi.is.sdn, ref_provider: 508, ref_wmo: 4081}
+- {has: 13.0, lat: 66.35, lon: 14.767, name: Skoruvík, ref: vi.is.skv, ref_provider: 510, ref_wmo: 4081}
+- {has: 10.0, lat: 66.333, lon: 14.783, name: Skálar á Langanesi, ref: vi.is.sklr, ref_provider: 511, ref_wmo: null}
+- {has: 25.0, lat: 66.0659, lon: 15.0792, name: Miðfjarðarnes, ref: vi.is.mdfj, ref_provider: 515, ref_wmo: 4083}
+- {has: 6.0, lat: 66.033, lon: 14.983, name: Þorvaldsstaðir, ref: vi.is.trv, ref_provider: 519, ref_wmo: null}
+- {has: 20.0, lat: 66.033, lon: 14.8, name: Bakkafjörður, ref: vi.is.bkkf, ref_provider: 520, ref_wmo: null}
+- {has: 23.0, lat: 65.9061, lon: 14.6503, name: Strandhöfn, ref: vi.is.strh, ref_provider: 521, ref_wmo: 4087}
+- {has: 21.0, lat: 65.75, lon: 14.833, name: Vopnafjörður, ref: vi.is.vpn, ref_provider: 525, ref_wmo: 4085}
+- {has: 42.2, lat: 65.7027, lon: 14.8211, name: Skjaldþingsstaðir, ref: vi.is.skjl, ref_provider: 527, ref_wmo: 4085}
+- {has: 50.0, lat: 65.65, lon: 15.017, name: Hof í Vopnafirði, ref: vi.is.hof, ref_provider: 530, ref_wmo: null}
+- {has: 40.0, lat: 65.633, lon: 15.05, name: Þorbrandsstaðir, ref: vi.is.tbs, ref_provider: 531, ref_wmo: null}
+- {has: 39.0, lat: 65.783, lon: 14.45, name: Fagridalur, ref: vi.is.fgdl, ref_provider: 533, ref_wmo: null}
+- {has: 360.0, lat: 65.108, lon: 15.529, name: Brú á Jökuldal I, ref: vi.is.bru, ref_provider: 542, ref_wmo: null}
+- {has: 15.0, lat: 65.55, lon: 14.183, name: Kóreksstaðir, ref: vi.is.krks, ref_provider: 561, ref_wmo: null}
+- {has: 37.0, lat: 65.55, lon: 14.333, name: Dratthalastaðir, ref: vi.is.drth, ref_provider: 562, ref_wmo: null}
+- {has: 33.0, lat: 65.55, lon: 14.383, name: Gunnhildargerði, ref: vi.is.ghg, ref_provider: 563, ref_wmo: null}
+- {has: 14.0, lat: 65.567, lon: 14.4, name: Nefbjarnarstaðir, ref: vi.is.nbjs, ref_provider: 564, ref_wmo: null}
+- {has: 25.0, lat: 65.5, lon: 14.2, name: Svínafell, ref: vi.is.svn, ref_provider: 565, ref_wmo: null}
+- {has: 40.0, lat: 65.367, lon: 14.35, name: Eiðar, ref: vi.is.eidr, ref_provider: 568, ref_wmo: null}
+- {has: 37.0, lat: 65.3, lon: 14.367, name: Egilsstaðir, ref: vi.is.eg, ref_provider: 570, ref_wmo: 4089}
+- {has: 120.0, lat: 65.0, lon: 14.617, name: Birkihlíð, ref: vi.is.brkh, ref_provider: 578, ref_wmo: null}
+- {has: 60.0, lat: 65.1, lon: 14.717, name: Hallormsstaður, ref: vi.is.hlst, ref_provider: 580, ref_wmo: null}
+- {has: 60.0, lat: 65.033, lon: 14.933, name: Skriðuklaustur, ref: vi.is.skrk, ref_provider: 590, ref_wmo: null}
+- {has: 94.0, lat: 65.017, lon: 14.983, name: Valþjófsstaður, ref: vi.is.vlþs, ref_provider: 591, ref_wmo: null}
+- {has: 810.0, lat: 64.8, lon: 15.633, name: Snæfellsskáli, ref: vi.is.snfl, ref_provider: 598, ref_wmo: 4080}
+- {has: 5.0, lat: 65.5, lon: 13.617, name: Glettinganes, ref: vi.is.gltn, ref_provider: 609, ref_wmo: null}
+- {has: 20.0, lat: 65.35, lon: 13.75, name: Nes í Loðmundarfirði, ref: vi.is.nesl, ref_provider: 611, ref_wmo: null}
+- {has: 559.0, lat: 65.1618, lon: 13.688, name: Neskaupstaður - Drangagil, ref: vi.is.nkaud, ref_provider: 5992, ref_wmo: 4899}
+- {has: 283.0, lat: 66.0687, lon: 23.2103, name: Seljalandsdalur - skíðaskáli, ref: vi.is.selsk, ref_provider: 2641, ref_wmo: 4819}
+- {has: 17.0, lat: 66.1994, lon: 17.1028, name: Mánárbakki sjálfvirk stöð, ref: vi.is.manar, ref_provider: 3797, ref_wmo: 4847}
+- {has: 4.0, lat: 66.456, lon: 15.9527, name: Raufarhöfn sjálfvirk stöð, ref: vi.is.raufa, ref_provider: 4828, ref_wmo: 4877}
+- {has: 22.0, lat: 66.1632, lon: 17.8408, name: Flatey á Skjálfanda, ref: vi.is.flats, ref_provider: 3779, ref_wmo: 4965}
+- {has: 845.0, lat: 64.728, lon: 16.1117, name: Brúarjökull B10, ref: vi.is.bruar, ref_provider: 5932, ref_wmo: 4982}
+- {has: 3.0, lat: 63.8692, lon: 21.1602, name: Eyrarbakki sjálfvirk stöð, ref: vi.is.eyrar, ref_provider: 1395, ref_wmo: 4114}
+- {has: 311.0, lat: 65.911, lon: 16.9762, name: Þeistareykir, ref: vi.is.teist, ref_provider: 4500, ref_wmo: 4967}
+- {has: 31.0, lat: 65.6961, lon: 18.1113, name: Akureyri - Krossanesbraut, ref: vi.is.akurk, ref_provider: 3471, ref_wmo: 4137}
+- {has: 400.0, lat: 65.2651, lon: 14.0329, name: Seyðisfjörður - Kálfabotnar, ref: vi.is.seyka, ref_provider: 4181, ref_wmo: 4995}
+- {has: 19.0, lat: 66.5438, lon: 18.0167, name: Grímsey, ref: vi.is.grimy, ref_provider: 3976, ref_wmo: 4165}
+- {has: 130.0, lat: 64.1085, lon: 21.6864, name: Hólmsheiði, ref: vi.is.holms, ref_provider: 1481, ref_wmo: 4920}
+- {has: 40.0, lat: 64.6943, lon: 22.1473, name: Fíflholt á Mýrum, ref: vi.is.fiflh, ref_provider: 1868, ref_wmo: 4914}
+- {has: 597.0, lat: 64.0567, lon: 21.3469, name: Skarðsmýrarfjall, ref: vi.is.skamy, ref_provider: 1496, ref_wmo: 4922}
+- {has: 748.2, lat: 64.8281, lon: 16.0897, name: Brúaröræfi, ref: vi.is.bruor, ref_provider: 5825, ref_wmo: 4978}
+- {has: 25.79, lat: 65.501, lon: 18.1616, name: Torfur sjálfvirk stöð, ref: vi.is.torfr, ref_provider: 3371, ref_wmo: 4961}
+- {has: 44.0, lat: 65.7036, lon: 14.8208, name: Skjaldþingsstaðir sjálfvirk stöð, ref: vi.is.skjal, ref_provider: 4455, ref_wmo: 4985}
+- {has: 19.8, lat: 65.87, lon: 23.5483, name: Þingeyrarflugvöllur, ref: vi.is.tinge, ref_provider: 2525, ref_wmo: 4807}
+- {has: 300.0, lat: 64.9957, lon: 14.5106, name: Brúðardalur, ref: vi.is.bruda, ref_provider: 5968, ref_wmo: 4980}
+- {has: 500.0, lat: 65.0009, lon: 14.4625, name: Þórdalsheiði, ref: vi.is.tordh, ref_provider: 5969, ref_wmo: 4979}
+- {has: 350.0, lat: 65.8914, lon: 17.2268, name: Sóleyjarflatamelar, ref: vi.is.soley, ref_provider: 3595, ref_wmo: 4977}
+- {has: 35.0, lat: 65.503, lon: 24.531, name: Bjargtangar, ref: vi.is.bjarg, ref_provider: 2304, ref_wmo: 4101}
+- {has: 47.0, lat: 63.9747, lon: 22.5876, name: Keflavíkurflugvöllur, ref: vi.is.kvk, ref_provider: 990, ref_wmo: 4018}
+- {has: 8.0, lat: 64.2691, lon: 15.2135, name: Höfn í Hornafirði sjálfvirk stöð, ref: vi.is.hofnh, ref_provider: 5544, ref_wmo: 4192}
+- {has: 30.0, lat: 66.0804, lon: 17.3217, name: Húsavík Héðinshöfði, ref: vi.is.hushh, ref_provider: 3695, ref_wmo: 4969}
+- {has: 4.0, lat: 64.233, lon: 15.2, name: Hvanney, ref: vi.is.horfj, ref_provider: 5552, ref_wmo: 4182}
+- {has: 640.0, lat: 65.0182, lon: 14.4535, name: Hallsteinsdalsvarp, ref: vi.is.halls, ref_provider: 5970, ref_wmo: 4981}
+- {has: 8.0, lat: 64.9372, lon: 14.0407, name: Fáskrúðsfjörður sjálfvirk stöð, ref: vi.is.faskr, ref_provider: 5982, ref_wmo: 4998}
+- {has: 0.5, lat: 65.726, lon: 19.5737, name: Sauðárkrókur flugvöllur, ref: vi.is.skrok, ref_provider: 3433, ref_wmo: 4953}
+- {has: 30.0, lat: 63.9777, lon: 16.4366, name: Kvísker sjálfvirk stöð, ref: vi.is.ksker, ref_provider: 5316, ref_wmo: 4970}
+- {has: 17.41, lat: 65.5015, lon: 18.1513, name: Torfur, ref: vi.is.trfr, ref_provider: 425, ref_wmo: 4061}
+- {has: 450.0, lat: 65.375, lon: 15.883, name: Möðrudalur, ref: vi.is.mdrd, ref_provider: 490, ref_wmo: null}
+- {has: 3.5, lat: 63.8438, lon: 22.417, name: Grindavík, ref: vi.is.grvik, ref_provider: 1361, ref_wmo: 4910}
+- {has: 560.0, lat: 65.7102, lon: 16.8785, name: Krókóttuvötn Reykjahlíðarheiði, ref: vi.is.kroko, ref_provider: 4404, ref_wmo: 4971}
+- {has: 47.0, lat: 63.9745, lon: 22.5887, name: Keflavíkurflugvöllur sjálfvirk stöð, ref: vi.is.kefla, ref_provider: 1350, ref_wmo: 4118}
+- {has: 8.5, lat: 65.6276, lon: 23.8302, name: Tálknafjörður, ref: vi.is.talkn, ref_provider: 2323, ref_wmo: 4905}
+- {has: 17.65, lat: 66.161, lon: 23.2532, name: Bolungarvík, ref: vi.is.bol, ref_provider: 252, ref_wmo: 4005}

@@ -1,0 +1,22 @@
+Station Site:	B�rfell
+Station Name:	Haf - mastur
+Station Number:	201304230000
+LocalX:	464555.468800
+LocalY:	403270.228300
+Datum:	---
+Parameter Name:	WSpeed_57m
+Parameter Type:	WSpeed
+Parameter Type Name:	---
+Time series Name:	BUR/201304230000/WSpeed_04/Cmd.O
+Time series Unit:	m/s
+GlobalX:	464555.470000
+GlobalY:	403270.230000
+Longitude:	-19.727757
+Latitude:	64.130489
+Date,Time,Value [m/s],State of value
+23.04.2013,10:30:00,3.96,200 (Unchecked)
+23.04.2013,10:40:00,3.83,200 (Unchecked)
+23.04.2013,10:50:00,3.82,200 (Unchecked)
+23.04.2013,11:00:00,3.93,200 (Unchecked)
+23.04.2013,11:10:00,3.97,200 (Unchecked)
+23.04.2013,11:19:00,---,200 (Unchecked)

@@ -1,0 +1,65 @@
+#Verification for each station, daily results in monthly series
+
+#This program for R takes the difference between resolutions of MAE,MSE and ME results from individual daily stations
+#and does a bootstrap non parametric test for difference of means to see if they come from the same population.
+#Ho : x1 = x2
+#Programmer Oscar Jurado (ojurado@ciencias.unam.mx)
+#Creation date: March-2017
+
+#------------------Requisites------------------------------------------------------------
+#  
+
+
+#-----------------Version---------------------------------------------------------------
+#v1.0 11/Sep/16 Program is created
+
+#----------------Known issues-----------------------------------------------------------
+
+#-----------------Local directories----------------------------------------------------- 
+
+
+#-----------------BEGIN PROGRAM--------------------------------------------------------
+
+#load required libraries
+
+library(boot)
+
+#load file
+
+DAT <- read.table("./csv/VARIABLE/daily/ESTADISTICO_diff_SEASON_VARIABLE_STATION.csv",sep = ",", header = TRUE, fill = FALSE)
+DIF <- DAT$Diff
+
+#Create a function for the statistic boot function. It must accept indices as second input
+
+media <- function(data,indices) {
+  d <- data[indices]
+  m <- mean(d)
+  return(m)
+}
+
+#Bootstrap parameters
+NumResamples = 10000
+
+results <- boot(data = DIF,statistic = media, R = NumResamples, sim = "ordinary")
+
+#Get plots
+jpeg(file = "bootstrap/figures/ESTADISTICO_diff_SEASON_VARIABLE_STATION.jpg", width=500,height=500,units="px",quality=90)
+plot(results)
+dev.off()
+
+#Get estimated value
+print(results$t0)
+
+#Get confidence intervals
+
+interv <- boot.ci(results,type = "norm")
+print(interv)
+
+iv <- interv$normal
+low <- iv[2]
+hig <- iv[3]
+
+#Do the test. TRUE = Ho is not rejected. FALSE = Ho is rejected
+Ho <- 0
+test <- cbind(low <= Ho & hig >= Ho )
+print(test)

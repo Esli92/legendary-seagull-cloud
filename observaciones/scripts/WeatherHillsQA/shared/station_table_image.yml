@@ -1,0 +1,382 @@
+- {active: true, hag: null, has: null, id: 72, lat: 64.7982, lon: -13.8901, manual: false, name: Kambaskriður, provider_id: 1, ref: vg.is.89, ref_provider: '89', ref_wmo: 4990}
+- {active: true, hag: null, has: 73.0, id: 73, lat: 66.0423, lon: -18.5207, manual: false, name: Ólafsfjarðarmúli, provider_id: 1, ref: vg.is.90, ref_provider: '90', ref_wmo: 4951}
+- {active: true, hag: null, has: 30.0, id: 74, lat: 66.1022, lon: -18.813, manual: false, name: Héðinsfjörður, provider_id: 1, ref: vg.is.91, ref_provider: '91', ref_wmo: 4949}
+- {active: true, hag: null, has: null, id: 75, lat: 66.1784, lon: -18.9752, manual: false, name: Siglufjv Herkonugil, provider_id: 1, ref: vg.is.92, ref_provider: '92', ref_wmo: 4959}
+- {active: true, hag: null, has: 66.0, id: 76, lat: 64.1575, lon: -20.3675, manual: false, name: Bræðratunguvegur, provider_id: 1, ref: vg.is.93, ref_provider: '93', ref_wmo: 4960}
+- {active: true, hag: null, has: null, id: 77, lat: 64.2664, lon: -21.8329, manual: false, name: Blikdalsá, provider_id: 1, ref: vg.is.94, ref_provider: '94', ref_wmo: 4912}
+- {active: true, hag: null, has: 181.0, id: 12, lat: 64.0621, lon: -21.5593, manual: false, name: Sandskeið, provider_id: 1, ref: vg.is.17, ref_provider: '17', ref_wmo: 4854}
+- {active: true, hag: null, has: 132.0, id: 13, lat: 64.2481, lon: -21.023, manual: false, name: Gjábakki, provider_id: 1, ref: vg.is.18, ref_provider: '18', ref_wmo: 4919}
+- {active: true, hag: null, has: 232.0, id: 14, lat: 65.814, lon: -17.9913, manual: false, name: Víkurskarð, provider_id: 1, ref: vg.is.19, ref_provider: '19', ref_wmo: 4865}
+- {active: true, hag: null, has: 197.0, id: 15, lat: 66.2531, lon: -15.8163, manual: false, name: Hálsar, provider_id: 1, ref: vg.is.20, ref_provider: '20', ref_wmo: 4875}
+- {active: true, hag: null, has: 84.0, id: 16, lat: 63.9387, lon: -16.7959, manual: false, name: Sandfell í Öræfum, provider_id: 1, ref: vg.is.21, ref_provider: '21', ref_wmo: 4878}
+- {active: true, hag: null, has: 380.0, id: 17, lat: 64.8482, lon: -23.4813, manual: false, name: Fróðárheiði, provider_id: 1, ref: vg.is.22, ref_provider: '22', ref_wmo: 4802}
+- {active: true, hag: null, has: 435.0, id: 18, lat: 65.509, lon: -19.6951, manual: false, name: Vatnsskarð, provider_id: 1, ref: vg.is.24, ref_provider: '24', ref_wmo: 4853}
+- {active: true, hag: null, has: 370.0, id: 19, lat: 65.7374, lon: -17.1057, manual: false, name: Hólasandur, provider_id: 1, ref: vg.is.25, ref_provider: '25', ref_wmo: 4871}
+- {active: true, hag: null, has: 369.0, id: 20, lat: 65.1266, lon: -14.3344, manual: false, name: Fagridalur, provider_id: 1, ref: vg.is.26, ref_provider: '26', ref_wmo: 4887}
+- {active: true, hag: null, has: 422.0, id: 21, lat: 65.5171, lon: -23.7211, manual: false, name: Kleifaheiði, provider_id: 1, ref: vg.is.27, ref_provider: '27', ref_wmo: 4803}
+- {active: true, hag: null, has: 28.0, id: 22, lat: 63.5428, lon: -19.6906, manual: false, name: Steinar undir Eyjafjöllum, provider_id: 1, ref: vg.is.29, ref_provider: '29', ref_wmo: 4868}
+- {active: true, hag: null, has: 494.0, id: 23, lat: 64.907, lon: -14.6035, manual: false, name: Breiðdalsheiði, provider_id: 1, ref: vg.is.30, ref_provider: '30', ref_wmo: 4894}
+- {active: true, hag: null, has: 268.0, id: 24, lat: 63.9876, lon: -21.4629, manual: false, name: Þrengsli, provider_id: 1, ref: vg.is.31, ref_provider: '31', ref_wmo: 4858}
+- {active: true, hag: null, has: 21.0, id: 25, lat: 66.042, lon: -22.6857, manual: false, name: Ögur, provider_id: 1, ref: vg.is.32, ref_provider: '32', ref_wmo: 4813}
+- {active: true, hag: null, has: 275.0, id: 26, lat: 65.8914, lon: -14.8254, manual: false, name: Sandvíkurheiði, provider_id: 1, ref: vg.is.33, ref_provider: '33', ref_wmo: 4883}
+- {active: true, hag: null, has: 98.0, id: 27, lat: 64.1323, lon: -20.5308, manual: false, name: Skálholt, provider_id: 1, ref: vg.is.35, ref_provider: '35', ref_wmo: 4866}
+- {active: true, hag: null, has: 38.0, id: 28, lat: 64.2106, lon: -21.7679, manual: false, name: Kjalarnes, provider_id: 1, ref: vg.is.36, ref_provider: '36', ref_wmo: 4848}
+- {active: true, hag: null, has: 414.0, id: 29, lat: 64.8688, lon: -21.5169, manual: false, name: Brattabrekka, provider_id: 1, ref: vg.is.37, ref_provider: '37', ref_wmo: 4856}
+- {active: true, hag: null, has: 82.0, id: 30, lat: 65.6667, lon: -20.2383, manual: false, name: Blönduós, provider_id: 1, ref: vg.is.38, ref_provider: '38', ref_wmo: 4843}
+- {active: true, hag: null, has: 286.0, id: 31, lat: 65.5725, lon: -21.3294, manual: false, name: Ennisháls, provider_id: 1, ref: vg.is.39, ref_provider: '39', ref_wmo: 4833}
+- {active: true, hag: null, has: 110.0, id: 127, lat: 62.2188015, lon: -6.8045646, manual: false, name: Kambsdalur, provider_id: 3, ref: lv.fo.10, ref_provider: F10, ref_wmo: null}
+- {active: true, hag: null, has: 280.5, id: 128, lat: 62.1265536, lon: -7.1500456, manual: false, name: Høgareyn, provider_id: 3, ref: lv.fo.12, ref_provider: F12, ref_wmo: null}
+- {active: true, hag: null, has: 51.5, id: 129, lat: 62.0466258, lon: -6.8387794, manual: false, name: 'Sund ', provider_id: 3, ref: lv.fo.21, ref_provider: F21, ref_wmo: null}
+- {active: true, hag: null, has: 9.8, id: 130, lat: 62.1093, lon: -6.7286001, manual: false, name: Runavík, provider_id: 3, ref: lv.fo.22, ref_provider: F22, ref_wmo: null}
+- {active: true, hag: null, has: 40.0, id: 131, lat: 62.0696334, lon: -7.2463424, manual: false, name: Vatnsoyrar, provider_id: 3, ref: lv.fo.23, ref_provider: F23, ref_wmo: null}
+- {active: true, hag: null, has: 22.0, id: 132, lat: 62.2259775, lon: -6.5693919, manual: false, name: Klaksvík, provider_id: 3, ref: lv.fo.24, ref_provider: F24, ref_wmo: null}
+- {active: true, hag: null, has: 120.5, id: 133, lat: 61.8289564, lon: -6.7590945, manual: false, name: Sandoy, provider_id: 3, ref: lv.fo.25, ref_provider: F25, ref_wmo: null}
+- {active: true, hag: null, has: 2.5, id: 134, lat: 62.2464567, lon: -6.6629269, manual: false, name: Syðradal, provider_id: 3, ref: lv.fo.26, ref_provider: F26, ref_wmo: null}
+- {active: true, hag: null, has: 160.0, id: 135, lat: 61.4886, lon: -6.7515999, manual: false, name: Porkeri, provider_id: 3, ref: lv.fo.27, ref_provider: F27, ref_wmo: null}
+- {active: true, hag: null, has: 2.5, id: 136, lat: 61.548, lon: -6.8169, manual: false, name: Krambatanga, provider_id: 3, ref: lv.fo.28, ref_provider: F28, ref_wmo: null}
+- {active: true, hag: null, has: 2.5, id: 137, lat: 61.9030881, lon: -6.8788422, manual: false, name: Skopun, provider_id: 3, ref: lv.fo.29, ref_provider: F29, ref_wmo: null}
+- {active: true, hag: null, has: 115.0, id: 138, lat: 61.977333, lon: -6.7498, manual: false, name: Glyvursnes 2, provider_id: 3, ref: lv.fo.34, ref_provider: F34, ref_wmo: null}
+- {active: true, hag: null, has: 273.0, id: 139, lat: 62.054783, lon: -6.9189329, manual: false, name: Norðradalsskarð, provider_id: 3, ref: lv.fo.33, ref_provider: F33, ref_wmo: null}
+- {active: true, hag: null, has: 72.0, id: 140, lat: 62.1399093, lon: -6.8933626, manual: false, name: Kollafjørður, provider_id: 3, ref: lv.fo.36, ref_provider: F36, ref_wmo: null}
+- {active: true, hag: null, has: 66.0, id: 141, lat: 62.294967, lon: -7.127783, manual: false, name: Tjørnuvík, provider_id: 3, ref: lv.fo.35, ref_provider: F35, ref_wmo: null}
+- {active: true, hag: null, has: 225.0, id: 142, lat: 62.085667, lon: -7.1538, manual: false, name: Á Sandavágs hálsi, provider_id: 3, ref: lv.fo.41, ref_provider: F41, ref_wmo: null}
+- {active: true, hag: null, has: 136.0, id: 143, lat: 62.177933, lon: -6.765467, manual: false, name: Gøtueiði, provider_id: 3, ref: lv.fo.39, ref_provider: F39, ref_wmo: null}
+- {active: true, hag: null, has: 3.5, id: 144, lat: 62.05565, lon: -6.8743334, manual: false, name: Kaldbaksbotnur, provider_id: 3, ref: lv.fo.38, ref_provider: F38, ref_wmo: null}
+- {active: true, hag: null, has: 133.5, id: 145, lat: 62.2231767, lon: -6.9295505, manual: false, name: Norðskálatunnilin, provider_id: 3, ref: lv.fo.37, ref_provider: F37, ref_wmo: null}
+- {active: true, hag: null, has: 37.5, id: 146, lat: 62.3321523, lon: -6.5449565, manual: false, name: Viðareiðisvegurin, provider_id: 3, ref: lv.fo.40, ref_provider: F40, ref_wmo: null}
+- {active: true, hag: null, has: 310.0, id: 147, lat: 62.2984333, lon: -6.9700501, manual: false, name: Gjáarskarð, provider_id: 3, ref: lv.fo.42, ref_provider: F42, ref_wmo: null}
+- {active: true, hag: null, has: 245.0, id: 148, lat: 62.24545, lon: -6.8772, manual: false, name: Oyndarfjarðarvegurin, provider_id: 3, ref: lv.fo.43, ref_provider: F43, ref_wmo: null}
+- {active: true, hag: null, has: 32.0, id: 149, lat: 62.1927834, lon: -7.0202168, manual: false, name: Streymnes, provider_id: 3, ref: lv.fo.45, ref_provider: F45, ref_wmo: null}
+- {active: true, hag: null, has: 170.0, id: 150, lat: 61.5755834, lon: -6.9373, manual: false, name: Hvalba, provider_id: 3, ref: lv.fo.44, ref_provider: F44, ref_wmo: null}
+- {active: true, hag: null, has: 185.0, id: 151, lat: 61.987131, lon: -6.9043812, manual: false, name: Velbastaðhálsur, provider_id: 3, ref: lv.fo.48, ref_provider: F48, ref_wmo: null}
+- {active: true, hag: null, has: 190.0, id: 152, lat: 62.101767, lon: -7.625967, manual: false, name: Mykines, provider_id: 3, ref: lv.fo.47, ref_provider: F47, ref_wmo: null}
+- {active: true, hag: null, has: 100.0, id: 153, lat: 61.9571, lon: -6.7468999, manual: false, name: 'Glyvursnes ', provider_id: 3, ref: lv.fo.3, ref_provider: F3, ref_wmo: null}
+- {active: true, hag: null, has: 65.0, id: 154, lat: 61.834333, lon: -6.8740001, manual: false, name: Søltuvík, provider_id: 3, ref: lv.fo.31, ref_provider: F31, ref_wmo: null}
+- {active: true, hag: null, has: 135.0, id: 155, lat: 62.041896, lon: -6.7857741, manual: false, name: Stóratjørn, provider_id: 3, ref: lv.fo.30, ref_provider: F30, ref_wmo: null}
+- {active: true, hag: null, has: 370.0, id: 63, lat: 65.5524, lon: -21.833, manual: false, name: Þröskuldar, provider_id: 1, ref: vg.is.80, ref_provider: '80', ref_wmo: 4916}
+- {active: true, hag: null, has: 25.0, id: 64, lat: 64.9366, lon: -23.5034, manual: false, name: Búlandshöfði, provider_id: 1, ref: vg.is.81, ref_provider: '81', ref_wmo: 4908}
+- {active: true, hag: null, has: 215.0, id: 65, lat: 64.2018, lon: -20.8062, manual: false, name: Lyngdalsheiði, provider_id: 1, ref: vg.is.82, ref_provider: '82', ref_wmo: 4968}
+- {active: true, hag: null, has: 20.0, id: 66, lat: 64.6558, lon: -14.4527, manual: false, name: Hamarsfjörður, provider_id: 1, ref: vg.is.83, ref_provider: '83', ref_wmo: 4992}
+- {active: true, hag: null, has: 223.0, id: 67, lat: 66.2984, lon: -15.8933, manual: false, name: Hófaskarð, provider_id: 1, ref: vg.is.84, ref_provider: '84', ref_wmo: 4973}
+- {active: true, hag: null, has: 70.0, id: 68, lat: 64.986, lon: -22.8084, manual: false, name: Stórholt, provider_id: 1, ref: vg.is.85, ref_provider: '85', ref_wmo: 4936}
+- {active: true, hag: null, has: 66.0, id: 69, lat: 64.6956, lon: -21.6359, manual: false, name: Kolás, provider_id: 1, ref: vg.is.86, ref_provider: '86', ref_wmo: 4902}
+- {active: true, hag: null, has: 384.0, id: 1, lat: 64.019, lon: -21.3423, manual: false, name: Hellisheiði, provider_id: 1, ref: vg.is.1, ref_provider: '1', ref_wmo: 4836}
+- {active: true, hag: null, has: 407.0, id: 2, lat: 64.9904, lon: -21.0585, manual: false, name: Holtavörðuheiði, provider_id: 1, ref: vg.is.3, ref_provider: '3', ref_wmo: 4839}
+- {active: true, hag: null, has: 546.0, id: 3, lat: 65.4677, lon: -18.6988, manual: false, name: Öxnadalsheiði, provider_id: 1, ref: vg.is.4, ref_provider: '4', ref_wmo: 4859}
+- {active: true, hag: null, has: 440.0, id: 4, lat: 65.7511, lon: -22.13, manual: false, name: Steingr.fj.heiði, provider_id: 1, ref: vg.is.5, ref_provider: '5', ref_wmo: 4829}
+- {active: true, hag: null, has: 37.0, id: 5, lat: 63.4637, lon: -18.6096, manual: false, name: Mýrdalssandur, provider_id: 1, ref: vg.is.6, ref_provider: '6', ref_wmo: 4860}
+- {active: true, hag: null, has: 612.0, id: 6, lat: 65.2661, lon: -14.2589, manual: false, name: Fjarðarheiði, provider_id: 1, ref: vg.is.7, ref_provider: '7', ref_wmo: 4893}
+- {active: true, hag: null, has: 100.0, id: 7, lat: 66.1289, lon: -19.0724, manual: false, name: Siglufjarðarvegur, provider_id: 1, ref: vg.is.10, ref_provider: '10', ref_wmo: 4857}
+- {active: true, hag: null, has: 533.0, id: 8, lat: 65.0637, lon: -13.9186, manual: false, name: Oddsskarð, provider_id: 1, ref: vg.is.11, ref_provider: '11', ref_wmo: 4897}
+- {active: true, hag: null, has: 41.0, id: 9, lat: 64.4755, lon: -21.9603, manual: false, name: Hafnarfjall, provider_id: 1, ref: vg.is.12, ref_provider: '12', ref_wmo: 4832}
+- {active: true, hag: null, has: 525.0, id: 10, lat: 65.6444, lon: -23.7107, manual: false, name: Hálfdán, provider_id: 1, ref: vg.is.13, ref_provider: '13', ref_wmo: 4805}
+- {active: true, hag: null, has: 25.0, id: 11, lat: 64.0024, lon: -22.2298, manual: false, name: Reykjanesbraut, provider_id: 1, ref: vg.is.14, ref_provider: '14', ref_wmo: 4822}
+- {active: true, hag: null, has: 473.0, id: 70, lat: 65.302, lon: -15.2237, manual: false, name: Jökuldalur, provider_id: 1, ref: vg.is.87, ref_provider: '87', ref_wmo: 4991}
+- {active: true, hag: null, has: 401.0, id: 32, lat: 65.6576, lon: -16.5005, manual: false, name: Mývatnsöræfi, provider_id: 1, ref: vg.is.40, ref_provider: '40', ref_wmo: 4873}
+- {active: true, hag: null, has: 47.0, id: 33, lat: 63.9574, lon: -17.55, manual: false, name: Við Lómagnúp, provider_id: 1, ref: vg.is.42, ref_provider: '42', ref_wmo: 4874}
+- {active: true, hag: null, has: 20.0, id: 34, lat: 64.822, lon: -23.1903, manual: false, name: Hraunsmúli í Staðarsveit, provider_id: 1, ref: vg.is.44, ref_provider: '44', ref_wmo: 4808}
+- {active: true, hag: null, has: 350.0, id: 35, lat: 65.6143, lon: -17.2169, manual: false, name: Mývatnsheiði, provider_id: 1, ref: vg.is.45, ref_provider: '45', ref_wmo: 4869}
+- {active: true, hag: null, has: 280.0, id: 36, lat: 65.6566, lon: -22.611, manual: false, name: Klettsháls, provider_id: 1, ref: vg.is.48, ref_provider: '48', ref_wmo: 4823}
+- {active: true, hag: null, has: 440.0, id: 37, lat: 65.5623, lon: -13.9896, manual: false, name: Vatnsskarð eystra, provider_id: 1, ref: vg.is.49, ref_provider: '49', ref_wmo: 4895}
+- {active: true, hag: null, has: 25.0, id: 38, lat: 64.4074, lon: -14.5391, manual: false, name: Hvalnes, provider_id: 1, ref: vg.is.50, ref_provider: '50', ref_wmo: 4892}
+- {active: true, hag: null, has: 221.0, id: 39, lat: 65.2068, lon: -21.3272, manual: false, name: Laxárdalsheiði, provider_id: 1, ref: vg.is.51, ref_provider: '51', ref_wmo: 4851}
+- {active: true, hag: null, has: 560.0, id: 40, lat: 65.457, lon: -15.5857, manual: false, name: Möðrudalsöræfi, provider_id: 1, ref: vg.is.52, ref_provider: '52', ref_wmo: 4881}
+- {active: true, hag: null, has: 17.0, id: 41, lat: 63.5784, lon: -19.9017, manual: false, name: Hvammur undir Eyjafjöllum, provider_id: 1, ref: vg.is.53, ref_provider: '53', ref_wmo: 4870}
+- {active: true, hag: null, has: 191.0, id: 42, lat: 64.3084, lon: -20.2094, manual: false, name: Gullfoss, provider_id: 1, ref: vg.is.54, ref_provider: '54', ref_wmo: 4842}
+- {active: true, hag: null, has: 228.0, id: 43, lat: 64.9057, lon: -22.8579, manual: false, name: Vatnaleið, provider_id: 1, ref: vg.is.55, ref_provider: '55', ref_wmo: 4810}
+- {active: true, hag: null, has: 230.0, id: 44, lat: 65.3056, lon: -21.7403, manual: false, name: Svínadalur í Dalasýslu, provider_id: 1, ref: vg.is.56, ref_provider: '56', ref_wmo: 4817}
+- {active: true, hag: null, has: 24.0, id: 45, lat: 63.9596, lon: -16.4244, manual: false, name: Kvísker, provider_id: 1, ref: vg.is.57, ref_provider: '57', ref_wmo: 4886}
+- {active: true, hag: null, has: 330.0, id: 46, lat: 65.7801, lon: -20.0186, manual: false, name: Þverárfjall, provider_id: 1, ref: vg.is.58, ref_provider: '58', ref_wmo: 4841}
+- {active: true, hag: null, has: 102.0, id: 47, lat: 66.1487, lon: -16.9754, manual: false, name: Tjörnes, provider_id: 1, ref: vg.is.59, ref_provider: '59', ref_wmo: 4837}
+- {active: true, hag: null, has: 62.0, id: 48, lat: 63.931, lon: -20.6662, manual: false, name: Þjórsá, provider_id: 1, ref: vg.is.60, ref_provider: '60', ref_wmo: 4940}
+- {active: true, hag: null, has: 18.0, id: 49, lat: 64.9664, lon: -23.1262, manual: false, name: Kolgrafafj.brú, provider_id: 1, ref: vg.is.61, ref_provider: '61', ref_wmo: 4812}
+- {active: true, hag: null, has: 531.0, id: 50, lat: 64.8257, lon: -14.6573, manual: false, name: Öxi, provider_id: 1, ref: vg.is.62, ref_provider: '62', ref_wmo: 4976}
+- {active: true, hag: null, has: 51.0, id: 51, lat: 63.9574, lon: -21.0633, manual: false, name: Ingólfsfjall, provider_id: 1, ref: vg.is.63, ref_provider: '63', ref_wmo: 4924}
+- {active: true, hag: null, has: 129.0, id: 52, lat: 65.3444, lon: -20.804, manual: false, name: Gauksmýri, provider_id: 1, ref: vg.is.64, ref_provider: '64', ref_wmo: 4933}
+- {active: true, hag: null, has: 529.0, id: 53, lat: 65.5584, lon: -16.0114, manual: false, name: Biskupsháls, provider_id: 1, ref: vg.is.66, ref_provider: '66', ref_wmo: 4975}
+- {active: true, hag: null, has: 103.0, id: 54, lat: 65.9518, lon: -18.4593, manual: false, name: Hámundarstaðaháls, provider_id: 1, ref: vg.is.70, ref_provider: '70', ref_wmo: 4963}
+- {active: true, hag: null, has: 31.0, id: 55, lat: 64.72, lon: -14.0361, manual: false, name: Streiti, provider_id: 1, ref: vg.is.71, ref_provider: '71', ref_wmo: 4994}
+- {active: true, hag: null, has: 37.0, id: 56, lat: 64.3101, lon: -21.9659, manual: false, name: Akrafjall, provider_id: 1, ref: vg.is.72, ref_provider: '72', ref_wmo: 4926}
+- {active: true, hag: null, has: 72.0, id: 57, lat: 65.5277, lon: -22.0234, manual: false, name: Króksfjörður, provider_id: 1, ref: vg.is.73, ref_provider: '73', ref_wmo: 4915}
+- {active: true, hag: null, has: 42.0, id: 58, lat: 63.6216, lon: -20.0285, manual: false, name: Við Markarfljót, provider_id: 1, ref: vg.is.74, ref_provider: '74', ref_wmo: 4958}
+- {active: true, hag: null, has: 250.0, id: 59, lat: 65.9406, lon: -23.4364, manual: false, name: Gemlufallsheiði, provider_id: 1, ref: vg.is.76, ref_provider: '76', ref_wmo: 4906}
+- {active: true, hag: null, has: 65.0, id: 60, lat: 64.831, lon: -22.5328, manual: false, name: Hafursfell, provider_id: 1, ref: vg.is.77, ref_provider: '77', ref_wmo: 4909}
+- {active: true, hag: null, has: 99.0, id: 156, lat: 62.0060167, lon: -6.8003334, manual: false, name: Marknagil, provider_id: 3, ref: lv.fo.46, ref_provider: F46, ref_wmo: null}
+- {active: true, hag: null, has: 40.0, id: 157, lat: 61.9878, lon: -6.9743, manual: false, name: Koltur, provider_id: 3, ref: lv.fo.18, ref_provider: F18, ref_wmo: null}
+- {active: true, hag: null, has: 212.0, id: 71, lat: 65.6571, lon: -15.1652, manual: false, name: Hauksstaðir, provider_id: 1, ref: vg.is.88, ref_provider: '88', ref_wmo: 4993}
+- {active: true, hag: null, has: 370.0, id: 61, lat: 65.5807, lon: -23.8552, manual: false, name: Miklidalur, provider_id: 1, ref: vg.is.78, ref_provider: '78', ref_wmo: 4801}
+- {active: true, hag: null, has: 121.0, id: 62, lat: 63.452, lon: -19.0379, manual: false, name: Reynisfjall, provider_id: 1, ref: vg.is.79, ref_provider: '79', ref_wmo: 4956}
+- {active: true, hag: null, has: 270.0, id: 78, lat: 64.214, lon: -21.3448, manual: false, name: Mosfellsheiði, provider_id: 1, ref: vg.is.95, ref_provider: '95', ref_wmo: 4918}
+- {active: true, hag: null, has: 57.0, id: 79, lat: 63.8683, lon: -22.4235, manual: false, name: Grindavíkurvegur, provider_id: 1, ref: vg.is.96, ref_provider: '96', ref_wmo: 4928}
+- {active: true, hag: null, has: 305.0, id: 80, lat: 65.564, lon: -22.2461, manual: false, name: Hjallaháls, provider_id: 1, ref: vg.is.97, ref_provider: '97', ref_wmo: 4907}
+- {active: true, hag: null, has: 440.0, id: 81, lat: 65.5947, lon: -15.3158, manual: false, name: Vopnafjarðarheiði, provider_id: 1, ref: vg.is.98, ref_provider: '98', ref_wmo: 4879}
+- {active: true, hag: null, has: 238.0, id: 82, lat: 65.697, lon: -17.5032, manual: false, name: Fljótsheiði, provider_id: 1, ref: vg.is.99, ref_provider: '99', ref_wmo: 4989}
+- {active: true, hag: null, has: 32.5, id: 83, lat: 63.8456, lon: -21.6963, manual: false, name: Selvogur, provider_id: 1, ref: vg.is.100, ref_provider: '100', ref_wmo: 4986}
+- {active: true, hag: null, has: 135.0, id: 84, lat: 63.8595, lon: -22.3436, manual: false, name: Festarfjall, provider_id: 1, ref: vg.is.101, ref_provider: '101', ref_wmo: 4911}
+- {active: true, hag: null, has: 270.0, id: 85, lat: 66.0808, lon: -23.3733, manual: false, name: Botn í Súgandafirði, provider_id: 1, ref: vg.is.102, ref_provider: '102', ref_wmo: 4943}
+- {active: true, hag: null, has: 40.0, id: 86, lat: 66.0711, lon: -19.2784, manual: false, name: Stafá, provider_id: 1, ref: vg.is.103, ref_provider: '103', ref_wmo: null}
+- {active: true, hag: 2.0, has: 257.52, id: 89, lat: 64.1253334247, lon: -19.7306082705, manual: false, name: Hafið mastur-1 2m, provider_id: 2, ref: lv.is.ma.1.02, ref_provider: 02m, ref_wmo: null}
+- {active: true, hag: 10.0, has: 257.52, id: 90, lat: 64.1253334247, lon: -19.7306082705, manual: false, name: Hafið mastur-1 10m, provider_id: 2, ref: lv.is.ma.1.10, ref_provider: 10m, ref_wmo: null}
+- {active: true, hag: 31.0, has: 257.52, id: 91, lat: 64.1253334247, lon: -19.7306082705, manual: false, name: Hafið mastur-1 31m, provider_id: 2, ref: lv.is.ma.1.31, ref_provider: 31m, ref_wmo: null}
+- {active: true, hag: 56.0, has: 257.52, id: 92, lat: 64.1253334247, lon: -19.7306082705, manual: false, name: Hafið mastur-1 56m, provider_id: 2, ref: lv.is.ma.1.56, ref_provider: 56m, ref_wmo: null}
+- {active: true, hag: 57.0, has: 257.52, id: 93, lat: 64.1253334247, lon: -19.7306082705, manual: false, name: Hafið mastur-1 57m, provider_id: 2, ref: lv.is.ma.1.57, ref_provider: 57m, ref_wmo: null}
+- {active: true, hag: 55.0, has: 257.52, id: 94, lat: 64.1253334247, lon: -19.7306082705, manual: false, name: Hafið mylla 1, provider_id: 2, ref: lv.is.mi.001, ref_provider: mylla1, ref_wmo: null}
+- {active: true, hag: 55.0, has: 257.52, id: 95, lat: 64.1253334247, lon: -19.7306082705, manual: false, name: Hafið mylla 2, provider_id: 2, ref: lv.is.mi.002, ref_provider: mylla2, ref_wmo: null}
+- {active: true, hag: null, has: 118.0, id: 927, lat: 63.3996, lon: -20.2882, manual: false, name: Stórhöfði, provider_id: 3, ref: vi.is.storh, ref_provider: storh, ref_wmo: 4148}
+- {active: true, hag: null, has: 641.0, id: 928, lat: 64.8668, lon: -19.5622, manual: false, name: Hveravellir, provider_id: 3, ref: vi.is.hvell, ref_provider: hvell, ref_wmo: 4156}
+- {active: false, hag: null, has: 95.0, id: 704, lat: 65.45, lon: -19.35, manual: true, name: Mælifell, provider_id: 6, ref: vi.is.mlfl, ref_provider: '365', ref_wmo: null}
+- {active: true, hag: null, has: 43.0, id: 917, lat: 65.0367, lon: -14.2397, manual: false, name: Kollaleira, provider_id: 6, ref: vi.is.kolla, ref_provider: '5975', ref_wmo: 4186}
+- {active: false, hag: null, has: 56.2, id: 918, lat: 65.0432, lon: -14.1623, manual: false, name: Ljósá í Reyðarfirði, provider_id: 6, ref: vi.is.ljosa, ref_provider: '5977', ref_wmo: 4891}
+- {active: true, hag: null, has: 20.0, id: 919, lat: 65.0763, lon: -14.0369, manual: false, name: Eskifjörður, provider_id: 6, ref: vi.is.eskif, ref_provider: '5981', ref_wmo: 4185}
+- {active: true, hag: null, has: 80.0, id: 920, lat: 64.9372, lon: -14.0407, manual: false, name: Fáskrúðsfjörður Ljósaland, provider_id: 6, ref: vi.is.faskr, ref_provider: '5982', ref_wmo: 4998}
+- {active: true, hag: null, has: 50.0, id: 921, lat: 64.937, lon: -13.6846, manual: false, name: Vattarnes, provider_id: 6, ref: vi.is.vatta, ref_provider: '5988', ref_wmo: 4188}
+- {active: true, hag: null, has: 49.7, id: 922, lat: 65.1503, lon: -13.6694, manual: false, name: Neskaupstaður, provider_id: 6, ref: vi.is.nkaup, ref_provider: '5990', ref_wmo: 4199}
+- {active: false, hag: null, has: 60.0, id: 923, lat: 65.1517, lon: -13.6835, manual: false, name: Neskaupstaður I, provider_id: 6, ref: vi.is.nkaus, ref_provider: '5991', ref_wmo: null}
+- {active: true, hag: null, has: 111.8, id: 924, lat: 65.1618, lon: -13.688, manual: false, name: Neskaupstaður - Drangagil, provider_id: 6, ref: vi.is.nkaud, ref_provider: '5992', ref_wmo: 4899}
+- {active: true, hag: null, has: 52.0, id: 670, lat: 64.1275, lon: -21.9028, manual: true, name: Reykjavík, provider_id: 6, ref: vi.is.rvk, ref_provider: '1', ref_wmo: 4030}
+- {active: false, hag: null, has: 20.0, id: 671, lat: 64.417, lon: -21.833, manual: true, name: Leirá, provider_id: 6, ref: vi.is.lra, ref_provider: '96', ref_wmo: null}
+- {active: true, hag: null, has: 14.0, id: 672, lat: 64.6419, lon: -21.5908, manual: true, name: Stafholtsey, provider_id: 6, ref: vi.is.stey, ref_provider: '108', ref_wmo: 4034}
+- {active: false, hag: null, has: 46.0, id: 673, lat: 64.667, lon: -21.617, manual: true, name: Hamraendar í Stafholtstungum, provider_id: 6, ref: vi.is.hmst, ref_provider: '130', ref_wmo: 4034}
+- {active: false, hag: null, has: 45.0, id: 674, lat: 64.817, lon: -22.267, manual: true, name: Haukatunga, provider_id: 6, ref: vi.is.hkt, ref_provider: '155', ref_wmo: 4026}
+- {active: false, hag: null, has: 80.0, id: 675, lat: 64.8, lon: -23.033, manual: true, name: Neðri-Hóll, provider_id: 6, ref: vi.is.ndrh, ref_provider: '164', ref_wmo: 4010}
+- {active: false, hag: null, has: 12.0, id: 676, lat: 64.817, lon: -23.133, manual: true, name: Garðar, provider_id: 6, ref: vi.is.grdr, ref_provider: '165', ref_wmo: 4010}
+- {active: true, hag: null, has: 13.0, id: 677, lat: 64.8393, lon: -23.3003, manual: true, name: Bláfeldur, provider_id: 6, ref: vi.is.blfl, ref_provider: '167', ref_wmo: 4010}
+- {active: false, hag: null, has: 70.0, id: 678, lat: 64.9, lon: -23.933, manual: true, name: Gufuskálar, provider_id: 6, ref: vi.is.gfsk, ref_provider: '170', ref_wmo: 4004}
+- {active: false, hag: null, has: 12.0, id: 679, lat: 64.917, lon: -23.883, manual: true, name: Hellissandur, provider_id: 6, ref: vi.is.hsd, ref_provider: '171', ref_wmo: 4004}
+- {active: false, hag: null, has: 165.0, id: 680, lat: 64.8, lon: -23.7, manual: true, name: Jökulháls, provider_id: 6, ref: vi.is.jokh, ref_provider: '172', ref_wmo: null}
+- {active: true, hag: null, has: 13.18, id: 681, lat: 65.074, lon: -22.7339, manual: true, name: Stykkishólmur, provider_id: 6, ref: vi.is.sth, ref_provider: '178', ref_wmo: 4013}
+- {active: true, hag: null, has: 50.0, id: 682, lat: 65.2297, lon: -21.7543, manual: true, name: Ásgarður, provider_id: 6, ref: vi.is.asg, ref_provider: '195', ref_wmo: 4027}
+- {active: false, hag: null, has: 27.0, id: 683, lat: 65.4481, lon: -22.1997, manual: true, name: Reykhólar, provider_id: 6, ref: vi.is.rh, ref_provider: '206', ref_wmo: 4025}
+- {active: false, hag: null, has: 17.0, id: 684, lat: 65.533, lon: -24.467, manual: true, name: Hvallátur, provider_id: 6, ref: vi.is.hval, ref_provider: '222', ref_wmo: 4001}
+- {active: false, hag: null, has: 20.0, id: 685, lat: 65.5499, lon: -24.351, manual: true, name: Breiðavík, provider_id: 6, ref: vi.is.brdv, ref_provider: '223', ref_wmo: 4001}
+- {active: false, hag: null, has: 49.0, id: 686, lat: 65.5562, lon: -24.0112, manual: true, name: Kvígindisdalur, provider_id: 6, ref: vi.is.kvgd, ref_provider: '224', ref_wmo: 4003}
+- {active: true, hag: null, has: 30.0, id: 687, lat: 65.8679, lon: -23.5641, manual: true, name: Hólar í Dýrafirði, provider_id: 6, ref: vi.is.hold, ref_provider: '234', ref_wmo: 4007}
+- {active: false, hag: null, has: 20.0, id: 688, lat: 66.167, lon: -23.567, manual: true, name: Galtarviti, provider_id: 6, ref: vi.is.gltv, ref_provider: '250', ref_wmo: 4005}
+- {active: true, hag: null, has: 17.65, id: 689, lat: 66.161, lon: -23.2532, manual: true, name: Bolungarvík, provider_id: 6, ref: vi.is.bol, ref_provider: '252', ref_wmo: 4005}
+- {active: false, hag: null, has: 50.0, id: 690, lat: 66.0999, lon: -22.66, manual: true, name: Æðey, provider_id: 6, ref: vi.is.aed, ref_provider: '260', ref_wmo: 4017}
+- {active: false, hag: null, has: 70.0, id: 691, lat: 66.333, lon: -22.883, manual: true, name: Hesteyri í Jökulfjörðum, provider_id: 6, ref: vi.is.hstr, ref_provider: '280', ref_wmo: null}
+- {active: false, hag: null, has: 17.0, id: 692, lat: 66.45, lon: -22.45, manual: true, name: Horn á Hornströndum, provider_id: 6, ref: vi.is.hrn, ref_provider: '284', ref_wmo: null}
+- {active: false, hag: null, has: 27.0, id: 693, lat: 66.417, lon: -22.383, manual: true, name: Hornbjargsviti, provider_id: 6, ref: vi.is.hbv, ref_provider: '285', ref_wmo: 4023}
+- {active: true, hag: null, has: 15.0, id: 694, lat: 66.0213, lon: -21.425, manual: true, name: Litla-Ávík, provider_id: 6, ref: vi.is.ltav, ref_provider: '293', ref_wmo: 4031}
+- {active: false, hag: null, has: 50.0, id: 695, lat: 65.983, lon: -21.35, manual: true, name: Gjögur, provider_id: 6, ref: vi.is.gjgr, ref_provider: '295', ref_wmo: 4031}
+- {active: false, hag: null, has: 40.0, id: 696, lat: 65.233, lon: -21.083, manual: true, name: Þóroddsstaðir, provider_id: 6, ref: vi.is.trst, ref_provider: '309', ref_wmo: 4041}
+- {active: true, hag: null, has: 18.0, id: 925, lat: 64.983, lon: -13.517, manual: false, name: Seley, provider_id: 6, ref: vi.is.seley, ref_provider: '5993', ref_wmo: 4198}
+- {active: false, hag: null, has: 80.0, id: 697, lat: 65.283, lon: -21.1, manual: true, name: Tannstaðabakki, provider_id: 6, ref: vi.is.tnst, ref_provider: '310', ref_wmo: 4041}
+- {active: false, hag: null, has: 26.0, id: 698, lat: 65.1837, lon: -20.7849, manual: true, name: Haugur í Miðfirði, provider_id: 6, ref: vi.is.hgr, ref_provider: '313', ref_wmo: 4043}
+- {active: false, hag: null, has: 43.0, id: 699, lat: 65.633, lon: -20.3, manual: true, name: Hjaltabakki, provider_id: 6, ref: vi.is.hjlt, ref_provider: '340', ref_wmo: 4045}
+- {active: false, hag: null, has: 23.0, id: 700, lat: 65.6581, lon: -20.3026, manual: true, name: Blönduós, provider_id: 6, ref: vi.is.blds, ref_provider: '341', ref_wmo: 4045}
+- {active: false, hag: null, has: 40.0, id: 701, lat: 65.667, lon: -20.3, manual: true, name: Blönduós, provider_id: 6, ref: vi.is.blnd, ref_provider: '342', ref_wmo: 4045}
+- {active: false, hag: null, has: 50.0, id: 702, lat: 65.75, lon: -19.65, manual: true, name: Sauðárkrókur, provider_id: 6, ref: vi.is.sdrk, ref_provider: '360', ref_wmo: 4053}
+- {active: true, hag: null, has: 43.0, id: 703, lat: 65.703, lon: -19.613, manual: true, name: Bergstaðir, provider_id: 6, ref: vi.is.brgs, ref_provider: '361', ref_wmo: 4053}
+- {active: false, hag: null, has: 23.0, id: 705, lat: 65.459, lon: -19.3683, manual: true, name: Nautabú, provider_id: 6, ref: vi.is.nb, ref_provider: '366', ref_wmo: 4055}
+- {active: true, hag: null, has: 30.0, id: 706, lat: 66.1852, lon: -18.9534, manual: true, name: Sauðanesviti, provider_id: 6, ref: vi.is.sdnv, ref_provider: '400', ref_wmo: 4059}
+- {active: false, hag: null, has: 80.0, id: 707, lat: 66.183, lon: -18.833, manual: true, name: Siglunes, provider_id: 6, ref: vi.is.sg, ref_provider: '402', ref_wmo: 4059}
+- {active: false, hag: null, has: 18.0, id: 708, lat: 66.183, lon: -18.783, manual: true, name: Reyðará, provider_id: 6, ref: vi.is.rda, ref_provider: '403', ref_wmo: 4059}
+- {active: false, hag: null, has: 15.0, id: 709, lat: 66.533, lon: -18.017, manual: true, name: Grímsey, provider_id: 6, ref: vi.is.gr, ref_provider: '404', ref_wmo: 4065}
+- {active: true, hag: null, has: 23.0, id: 710, lat: 65.6856, lon: -18.1002, manual: true, name: Akureyri, provider_id: 6, ref: vi.is.ak, ref_provider: '422', ref_wmo: 4063}
+- {active: false, hag: null, has: 178.0, id: 711, lat: 65.15, lon: -18.2, manual: true, name: Nýibær, provider_id: 6, ref: vi.is.nyb, ref_provider: '428', ref_wmo: null}
+- {active: false, hag: null, has: 164.2, id: 712, lat: 64.933, lon: -17.983, manual: true, name: Sandbúðir, provider_id: 6, ref: vi.is.sdbd, ref_provider: '449', ref_wmo: 4075}
+- {active: true, hag: null, has: 17.0, id: 713, lat: 66.1995, lon: -17.1032, manual: true, name: Mánárbakki, provider_id: 6, ref: vi.is.mnbk, ref_provider: '479', ref_wmo: 4071}
+- {active: true, hag: null, has: 76.8, id: 714, lat: 65.6423, lon: -16.1208, manual: true, name: Grímsstaðir, provider_id: 6, ref: vi.is.grst, ref_provider: '495', ref_wmo: 4073}
+- {active: false, hag: null, has: 64.0, id: 715, lat: 66.4513, lon: -15.9486, manual: true, name: Raufarhöfn, provider_id: 6, ref: vi.is.rfh, ref_provider: '505', ref_wmo: 4077}
+- {active: false, hag: null, has: 20.5, id: 716, lat: 66.2474, lon: -15.2615, manual: true, name: Sauðanes, provider_id: 6, ref: vi.is.sdn, ref_provider: '508', ref_wmo: 4081}
+- {active: false, hag: null, has: 13.0, id: 717, lat: 66.35, lon: -14.767, manual: true, name: Skoruvík, provider_id: 6, ref: vi.is.skv, ref_provider: '510', ref_wmo: 4081}
+- {active: true, hag: null, has: 25.0, id: 718, lat: 66.066, lon: -15.0792, manual: true, name: Miðfjarðarnes, provider_id: 6, ref: vi.is.mdfj, ref_provider: '515', ref_wmo: 4083}
+- {active: false, hag: null, has: 23.0, id: 719, lat: 65.9061, lon: -14.6502, manual: true, name: Strandhöfn, provider_id: 6, ref: vi.is.strh, ref_provider: '521', ref_wmo: 4087}
+- {active: false, hag: null, has: 21.0, id: 720, lat: 65.75, lon: -14.833, manual: true, name: Vopnafjörður, provider_id: 6, ref: vi.is.vpn, ref_provider: '525', ref_wmo: 4085}
+- {active: true, hag: null, has: 42.2, id: 721, lat: 65.7027, lon: -14.8211, manual: true, name: Skjaldþingsstaðir, provider_id: 6, ref: vi.is.skjl, ref_provider: '527', ref_wmo: 4085}
+- {active: false, hag: null, has: 50.0, id: 722, lat: 65.65, lon: -15.017, manual: true, name: Hof í Vopnafirði, provider_id: 6, ref: vi.is.hof, ref_provider: '530', ref_wmo: null}
+- {active: false, hag: null, has: 39.0, id: 723, lat: 65.783, lon: -14.45, manual: true, name: Fagridalur, provider_id: 6, ref: vi.is.fgdl, ref_provider: '533', ref_wmo: null}
+- {active: false, hag: null, has: 37.0, id: 724, lat: 65.3, lon: -14.367, manual: true, name: Egilsstaðir, provider_id: 6, ref: vi.is.eg, ref_provider: '570', ref_wmo: 4089}
+- {active: false, hag: null, has: 162.0, id: 725, lat: 64.8, lon: -15.633, manual: true, name: Snæfellsskáli, provider_id: 6, ref: vi.is.snfl, ref_provider: '598', ref_wmo: 4080}
+- {active: true, hag: null, has: 90.0, id: 726, lat: 65.2682, lon: -13.5759, manual: true, name: Dalatangi, provider_id: 6, ref: vi.is.dt, ref_provider: '620', ref_wmo: 4097}
+- {active: false, hag: null, has: 41.5, id: 727, lat: 65.0363, lon: -14.2403, manual: true, name: Kollaleira, provider_id: 6, ref: vi.is.kll, ref_provider: '635', ref_wmo: 4091}
+- {active: false, hag: null, has: 20.0, id: 728, lat: 64.8, lon: -13.85, manual: true, name: Kambanes, provider_id: 6, ref: vi.is.kmb, ref_provider: '660', ref_wmo: 4096}
+- {active: false, hag: null, has: 25.0, id: 729, lat: 64.7, lon: -14.1, manual: true, name: Núpur, provider_id: 6, ref: vi.is.npr, ref_provider: '670', ref_wmo: 4094}
+- {active: false, hag: null, has: 25.0, id: 730, lat: 64.6562, lon: -14.2882, manual: true, name: Djúpivogur, provider_id: 6, ref: vi.is.djv, ref_provider: '676', ref_wmo: 4092}
+- {active: false, hag: null, has: 19.0, id: 731, lat: 64.583, lon: -14.167, manual: true, name: Papey, provider_id: 6, ref: vi.is.pap, ref_provider: '680', ref_wmo: null}
+- {active: false, hag: null, has: 10.0, id: 732, lat: 64.267, lon: -14.983, manual: true, name: Horn í Hornafirði, provider_id: 6, ref: vi.is.horn, ref_provider: '701', ref_wmo: null}
+- {active: true, hag: null, has: 40.0, id: 733, lat: 64.251, lon: -15.2134, manual: true, name: Höfn í Hornafirði, provider_id: 6, ref: vi.is.hofn, ref_provider: '705', ref_wmo: 4082}
+- {active: false, hag: null, has: 90.0, id: 734, lat: 64.283, lon: -15.217, manual: true, name: Hjarðarnes, provider_id: 6, ref: vi.is.hjrn, ref_provider: '706', ref_wmo: 4082}
+- {active: false, hag: null, has: 17.0, id: 735, lat: 64.3101, lon: -15.2209, manual: true, name: Akurnes, provider_id: 6, ref: vi.is.anes, ref_provider: '707', ref_wmo: 4082}
+- {active: false, hag: null, has: 38.3, id: 736, lat: 63.8774, lon: -16.6472, manual: true, name: Fagurhólsmýri, provider_id: 6, ref: vi.is.fghm, ref_provider: '745', ref_wmo: 4072}
+- {active: false, hag: null, has: 29.5, id: 737, lat: 63.7895, lon: -18.0543, manual: true, name: Kirkjubæjarklaustur, provider_id: 6, ref: vi.is.kbkl, ref_provider: '772', ref_wmo: 4064}
+- {active: false, hag: null, has: 20.0, id: 738, lat: 63.5, lon: -18.333, manual: true, name: Mýrar í Álftaveri, provider_id: 6, ref: vi.is.myr, ref_provider: '790', ref_wmo: null}
+- {active: false, hag: null, has: 18.0, id: 739, lat: 63.5078, lon: -18.3717, manual: true, name: Norðurhjáleiga, provider_id: 6, ref: vi.is.nrdh, ref_provider: '791', ref_wmo: 4062}
+- {active: false, hag: null, has: 15.0, id: 740, lat: 63.4202, lon: -19.0098, manual: true, name: Vík í Mýrdal, provider_id: 6, ref: vi.is.vik, ref_provider: '798', ref_wmo: 4060}
+- {active: false, hag: null, has: 16.0, id: 741, lat: 63.417, lon: -19.15, manual: true, name: Loftsalir, provider_id: 6, ref: vi.is.lfts, ref_provider: '801', ref_wmo: 4058}
+- {active: true, hag: null, has: 20.0, id: 742, lat: 63.4236, lon: -19.183, manual: true, name: Vatnsskarðshólar, provider_id: 6, ref: vi.is.vtns, ref_provider: '802', ref_wmo: 4058}
+- {active: false, hag: null, has: 50.0, id: 743, lat: 63.683, lon: -19.483, manual: true, name: Básar á Goðalandi, provider_id: 6, ref: vi.is.bsr, ref_provider: '830', ref_wmo: 4052}
+- {active: false, hag: null, has: 20.0, id: 744, lat: 63.8361, lon: -20.3931, manual: true, name: Hella, provider_id: 6, ref: vi.is.hll, ref_provider: '855', ref_wmo: 4044}
+- {active: false, hag: null, has: 122.0, id: 745, lat: 64.45, lon: -18.75, manual: true, name: Versalir, provider_id: 6, ref: vi.is.vrsl, ref_provider: '888', ref_wmo: 4066}
+- {active: false, hag: null, has: 128.2, id: 746, lat: 64.8667, lon: -19.5621, manual: true, name: Hveravellir, provider_id: 6, ref: vi.is.hvrv, ref_provider: '892', ref_wmo: 4056}
+- {active: false, hag: null, has: 20.0, id: 747, lat: 64.067, lon: -20.333, manual: true, name: Hrepphólar, provider_id: 6, ref: vi.is.hrpp, ref_provider: '905', ref_wmo: null}
+- {active: true, hag: null, has: 50.0, id: 748, lat: 63.8648, lon: -21.1504, manual: true, name: Eyrarbakki, provider_id: 6, ref: vi.is.eb, ref_provider: '923', ref_wmo: 4038}
+- {active: false, hag: null, has: 50.0, id: 749, lat: 63.917, lon: -21.167, manual: true, name: Kaldaðarnes, provider_id: 6, ref: vi.is.kldn, ref_provider: '925', ref_wmo: null}
+- {active: true, hag: null, has: 89.0, id: 750, lat: 64.2504, lon: -20.3309, manual: true, name: Hjarðarland, provider_id: 6, ref: vi.is.hjrl, ref_provider: '931', ref_wmo: 4042}
+- {active: false, hag: null, has: 22.6, id: 751, lat: 64.25, lon: -21.117, manual: true, name: Þingvellir, provider_id: 6, ref: vi.is.tv, ref_provider: '945', ref_wmo: 4040}
+- {active: false, hag: null, has: 25.0, id: 752, lat: 64.2, lon: -21.233, manual: true, name: Heiðarbær, provider_id: 6, ref: vi.is.hdbr, ref_provider: '949', ref_wmo: 4040}
+- {active: false, hag: null, has: 20.0, id: 753, lat: 63.817, lon: -22.717, manual: true, name: Reykjanes, provider_id: 6, ref: vi.is.rkn, ref_provider: '985', ref_wmo: 4014}
+- {active: true, hag: null, has: 47.0, id: 754, lat: 63.9747, lon: -22.5876, manual: true, name: Keflavíkurflugvöllur, provider_id: 6, ref: vi.is.kvk, ref_provider: '990', ref_wmo: 4018}
+- {active: true, hag: null, has: 50.9, id: 755, lat: 63.9829, lon: -22.6005, manual: false, name: Keflavíkurflugvöllur, provider_id: 6, ref: vi.is.kefla, ref_provider: '1350', ref_wmo: 4118}
+- {active: false, hag: null, has: 50.0, id: 756, lat: 63.9867, lon: -22.5335, manual: false, name: Njarðvík, provider_id: 6, ref: vi.is.njard, ref_provider: '1357', ref_wmo: null}
+- {active: true, hag: null, has: 93.0, id: 757, lat: 63.8438, lon: -22.417, manual: false, name: Grindavík, provider_id: 6, ref: vi.is.grvik, ref_provider: '1361', ref_wmo: 4910}
+- {active: true, hag: null, has: 40.0, id: 758, lat: 63.8393, lon: -22.4275, manual: false, name: Grindavík, provider_id: 6, ref: vi.is.grind, ref_provider: '1362', ref_wmo: 4120}
+- {active: false, hag: null, has: 47.0, id: 759, lat: 63.9908, lon: -22.1714, manual: false, name: Afstapahraun, provider_id: 6, ref: vi.is.afstp, ref_provider: '1368', ref_wmo: 4826}
+- {active: false, hag: null, has: 20.0, id: 760, lat: 64.0197, lon: -22.0919, manual: false, name: Hvassahraun, provider_id: 6, ref: vi.is.hvass, ref_provider: '1370', ref_wmo: 4824}
+- {active: false, hag: null, has: 50.0, id: 761, lat: 63.8607, lon: -21.3737, manual: false, name: Þorlákshöfn, provider_id: 6, ref: vi.is.torlh, ref_provider: '1391', ref_wmo: 4140}
+- {active: true, hag: null, has: 30.0, id: 762, lat: 63.8692, lon: -21.1602, manual: false, name: Eyrarbakki, provider_id: 6, ref: vi.is.eyrar, ref_provider: '1395', ref_wmo: 4114}
+- {active: false, hag: null, has: 50.0, id: 763, lat: 64.0381, lon: -22.7168, manual: false, name: Sandgerði, provider_id: 6, ref: vi.is.sandg, ref_provider: '1452', ref_wmo: null}
+- {active: true, hag: null, has: 40.0, id: 764, lat: 64.0817, lon: -22.6893, manual: false, name: Garðskagaviti, provider_id: 6, ref: vi.is.garsk, ref_provider: '1453', ref_wmo: 4116}
+- {active: true, hag: null, has: 70.0, id: 765, lat: 64.0438, lon: -22.0405, manual: false, name: Straumsvík, provider_id: 6, ref: vi.is.strau, ref_provider: '1473', ref_wmo: 4124}
+- {active: true, hag: null, has: 52.0, id: 766, lat: 64.1276, lon: -21.902, manual: false, name: Reykjavík, provider_id: 6, ref: vi.is.reitr, ref_provider: '1475', ref_wmo: 4130}
+- {active: true, hag: null, has: 12.0, id: 767, lat: 64.1285, lon: -21.9407, manual: false, name: Reykjavíkurflugvöllur, provider_id: 6, ref: vi.is.rflug, ref_provider: '1477', ref_wmo: 4838}
+- {active: true, hag: null, has: 35.0, id: 768, lat: 64.1505, lon: -21.7511, manual: false, name: Korpa, provider_id: 6, ref: vi.is.korpa, ref_provider: '1479', ref_wmo: 4132}
+- {active: true, hag: null, has: 35.0, id: 769, lat: 64.1678, lon: -21.8038, manual: false, name: Geldinganes, provider_id: 6, ref: vi.is.geldn, ref_provider: '1480', ref_wmo: 4880}
+- {active: true, hag: null, has: 26.0, id: 770, lat: 64.1085, lon: -21.6864, manual: false, name: Hólmsheiði, provider_id: 6, ref: vi.is.holms, ref_provider: '1481', ref_wmo: 4920}
+- {active: false, hag: null, has: 48.0, id: 771, lat: 64.1045, lon: -21.5448, manual: false, name: Miðdalsheiði, provider_id: 6, ref: vi.is.midhe, ref_provider: '1483', ref_wmo: 4830}
+- {active: true, hag: null, has: 106.0, id: 772, lat: 63.98, lon: -21.6556, manual: false, name: Bláfjöll úrkomustöð, provider_id: 6, ref: vi.is.blafu, ref_provider: '1485', ref_wmo: 4850}
+- {active: true, hag: null, has: 106.0, id: 773, lat: 63.969, lon: -21.6661, manual: false, name: Bláfjöll, provider_id: 6, ref: vi.is.blafj, ref_provider: '1486', ref_wmo: 4138}
+- {active: true, hag: null, has: 106.0, id: 774, lat: 63.9831, lon: -21.6496, manual: false, name: Bláfjallaskáli, provider_id: 6, ref: vi.is.blafs, ref_provider: '1487', ref_wmo: 4852}
+- {active: true, hag: null, has: 76.0, id: 775, lat: 64.0333, lon: -21.3665, manual: false, name: Hellisskarð, provider_id: 6, ref: vi.is.hells, ref_provider: '1490', ref_wmo: 4862}
+- {active: true, hag: null, has: 72.0, id: 776, lat: 64.0553, lon: -21.2532, manual: false, name: Ölkelduháls, provider_id: 6, ref: vi.is.olkel, ref_provider: '1493', ref_wmo: 4864}
+- {active: false, hag: null, has: 54.0, id: 777, lat: 64.036, lon: -21.4005, manual: false, name: Kolviðarhóll I, provider_id: 6, ref: vi.is.kolv1, ref_provider: '1494', ref_wmo: 4896}
+- {active: false, hag: null, has: 54.0, id: 778, lat: 64.039, lon: -21.3992, manual: false, name: Kolviðarhóll II, provider_id: 6, ref: vi.is.kolv2, ref_provider: '1495', ref_wmo: 4898}
+- {active: true, hag: null, has: 119.4, id: 779, lat: 64.0567, lon: -21.3469, manual: false, name: Skarðsmýrarfjall, provider_id: 6, ref: vi.is.skamy, ref_provider: '1496', ref_wmo: 4922}
+- {active: false, hag: null, has: 50.0, id: 780, lat: 64.317, lon: -22.083, manual: false, name: Akranes, provider_id: 6, ref: vi.is.akran, ref_provider: '1570', ref_wmo: 4122}
+- {active: false, hag: null, has: 50.0, id: 781, lat: 64.067, lon: -21.983, manual: false, name: Hafnarfjörður, provider_id: 6, ref: vi.is.hafjo, ref_provider: '1573', ref_wmo: null}
+- {active: false, hag: null, has: 50.0, id: 782, lat: 64.15, lon: -21.933, manual: false, name: Reykjavíkurhöfn, provider_id: 6, ref: vi.is.rvkho, ref_provider: '1574', ref_wmo: null}
+- {active: false, hag: null, has: 50.0, id: 783, lat: 64.167, lon: -21.933, manual: false, name: Eyjargrandi í Reykjavík, provider_id: 6, ref: vi.is.rvkor, ref_provider: '1575', ref_wmo: null}
+- {active: false, hag: null, has: 50.0, id: 784, lat: 64.15, lon: -21.867, manual: false, name: Sundahöfn í Reykjavík, provider_id: 6, ref: vi.is.rvksu, ref_provider: '1576', ref_wmo: null}
+- {active: true, hag: null, has: 20.0, id: 785, lat: 64.2318, lon: -21.8046, manual: false, name: Skrauthólar, provider_id: 6, ref: vi.is.skrau, ref_provider: '1578', ref_wmo: 4818}
+- {active: true, hag: null, has: 154.2, id: 786, lat: 64.2405, lon: -21.4633, manual: false, name: Skálafell, provider_id: 6, ref: vi.is.sfell, ref_provider: '1590', ref_wmo: 4136}
+- {active: true, hag: null, has: 22.0, id: 787, lat: 64.2807, lon: -21.0875, manual: false, name: Þingvellir, provider_id: 6, ref: vi.is.tingv, ref_provider: '1596', ref_wmo: 4142}
+- {active: false, hag: null, has: 40.0, id: 788, lat: 64.3961, lon: -22.008, manual: false, name: Ás í Melasveit, provider_id: 6, ref: vi.is.asmel, ref_provider: '1672', ref_wmo: 4828}
+- {active: true, hag: null, has: 20.0, id: 789, lat: 64.4647, lon: -21.9628, manual: false, name: Hafnarmelar, provider_id: 6, ref: vi.is.hamel, ref_provider: '1673', ref_wmo: 4128}
+- {active: false, hag: null, has: 50.0, id: 790, lat: 64.35, lon: -21.783, manual: false, name: Grundartangi, provider_id: 6, ref: vi.is.grund, ref_provider: '1678', ref_wmo: null}
+- {active: true, hag: null, has: 96.0, id: 791, lat: 64.4902, lon: -21.7621, manual: false, name: Skarðsheiði Miðfitjahóll, provider_id: 6, ref: vi.is.skahe, ref_provider: '1679', ref_wmo: 4904}
+- {active: true, hag: null, has: 53.0, id: 792, lat: 64.3877, lon: -21.4169, manual: false, name: Þyrill, provider_id: 6, ref: vi.is.tyril, ref_provider: '1685', ref_wmo: 4806}
+- {active: true, hag: null, has: 100.1, id: 793, lat: 64.4529, lon: -21.4034, manual: false, name: Botnsheiði, provider_id: 6, ref: vi.is.botns, ref_provider: '1689', ref_wmo: 4814}
+- {active: true, hag: null, has: 12.4, id: 794, lat: 64.567, lon: -21.767, manual: false, name: Hvanneyri, provider_id: 6, ref: vi.is.hveyr, ref_provider: '1779', ref_wmo: 4134}
+- {active: true, hag: null, has: 40.0, id: 795, lat: 64.6943, lon: -22.1473, manual: false, name: Fíflholt á Mýrum, provider_id: 6, ref: vi.is.fiflh, ref_provider: '1868', ref_wmo: 4914}
+- {active: true, hag: null, has: 23.0, id: 796, lat: 64.7268, lon: -21.6297, manual: false, name: Litla-Skarð, provider_id: 6, ref: vi.is.litsk, ref_provider: '1881', ref_wmo: 4112}
+- {active: true, hag: null, has: 70.0, id: 797, lat: 64.9, lon: -23.933, manual: false, name: Gufuskálar, provider_id: 6, ref: vi.is.gufus, ref_provider: '1919', ref_wmo: 4104}
+- {active: true, hag: null, has: 15.0, id: 798, lat: 64.8948, lon: -23.7143, manual: false, name: Ólafsvík, provider_id: 6, ref: vi.is.olvik, ref_provider: '1924', ref_wmo: 4106}
+- {active: true, hag: null, has: 47.0, id: 799, lat: 64.9, lon: -23.717, manual: false, name: Ólafsvíkurhöfn, provider_id: 6, ref: vi.is.olvho, ref_provider: '1925', ref_wmo: 4102}
+- {active: true, hag: null, has: 13.0, id: 800, lat: 64.8393, lon: -23.3012, manual: false, name: Bláfeldur, provider_id: 6, ref: vi.is.blafe, ref_provider: '1936', ref_wmo: 4110}
+- {active: true, hag: null, has: 10.0, id: 801, lat: 64.9213, lon: -23.2513, manual: false, name: Grundarfjörður, provider_id: 6, ref: vi.is.grufj, ref_provider: '1938', ref_wmo: 4108}
+- {active: true, hag: null, has: 12.4, id: 802, lat: 65.0717, lon: -22.7324, manual: false, name: Stykkishólmur, provider_id: 6, ref: vi.is.stykk, ref_provider: '2050', ref_wmo: 4115}
+- {active: true, hag: null, has: 50.0, id: 803, lat: 65.2297, lon: -21.7543, manual: false, name: Ásgarður, provider_id: 6, ref: vi.is.asgar, ref_provider: '2175', ref_wmo: 4133}
+- {active: true, hag: null, has: 15.0, id: 804, lat: 65.2543, lon: -21.0978, manual: false, name: Reykir í Hrútafirði, provider_id: 6, ref: vi.is.rhrut, ref_provider: '2197', ref_wmo: 4139}
+- {active: true, hag: null, has: 67.0, id: 805, lat: 65.4377, lon: -22.2056, manual: false, name: Reykhólar, provider_id: 6, ref: vi.is.rehol, ref_provider: '2266', ref_wmo: 4129}
+- {active: true, hag: null, has: 35.0, id: 806, lat: 65.5029, lon: -24.5312, manual: false, name: Bjargtangar, provider_id: 6, ref: vi.is.bjarg, ref_provider: '2304', ref_wmo: 4101}
+- {active: true, hag: null, has: 40.0, id: 807, lat: 65.4924, lon: -24.0925, manual: false, name: Lambavatn, provider_id: 6, ref: vi.is.lamba, ref_provider: '2315', ref_wmo: 4809}
+- {active: true, hag: null, has: 40.0, id: 808, lat: 65.6, lon: -24.0, manual: false, name: Patrekshöfn, provider_id: 6, ref: vi.is.patrh, ref_provider: '2318', ref_wmo: 4103}
+- {active: true, hag: null, has: 43.0, id: 809, lat: 65.5951, lon: -23.9748, manual: false, name: Patreksfjörður, provider_id: 6, ref: vi.is.patro, ref_provider: '2319', ref_wmo: 4105}
+- {active: true, hag: null, has: 85.0, id: 810, lat: 65.6276, lon: -23.8302, manual: false, name: Tálknafjörður, provider_id: 6, ref: vi.is.talkn, ref_provider: '2323', ref_wmo: 4905}
+- {active: true, hag: null, has: 78.0, id: 811, lat: 65.5528, lon: -21.8257, manual: false, name: Arnkatla, provider_id: 6, ref: vi.is.arkdh, ref_provider: '2370', ref_wmo: null}
+- {active: true, hag: null, has: 16.0, id: 812, lat: 65.6794, lon: -23.6122, manual: false, name: Bíldudalur, provider_id: 6, ref: vi.is.bildu, ref_provider: '2428', ref_wmo: 4125}
+- {active: false, hag: null, has: 123.0, id: 813, lat: 65.7, lon: -23.083, manual: false, name: Dynjandiheiði I, provider_id: 6, ref: vi.is.dynjh, ref_provider: '2443', ref_wmo: 4115}
+- {active: false, hag: null, has: 59.4, id: 814, lat: 65.65, lon: -22.8, manual: false, name: Þingmannaheiði I, provider_id: 6, ref: vi.is.tinhe, ref_provider: '2453', ref_wmo: 4119}
+- {active: false, hag: null, has: 102.0, id: 815, lat: 65.657, lon: -23.0029, manual: false, name: Þingmannaheiði, provider_id: 6, ref: vi.is.tmhei, ref_provider: '2454', ref_wmo: 4119}
+- {active: true, hag: null, has: 47.0, id: 816, lat: 65.7284, lon: -21.5718, manual: false, name: Bjarnarfjarðarháls, provider_id: 6, ref: vi.is.bjafh, ref_provider: '2480', ref_wmo: null}
+- {active: true, hag: null, has: 10.0, id: 817, lat: 65.6873, lon: -21.6813, manual: false, name: Hólmavík, provider_id: 6, ref: vi.is.holma, ref_provider: '2481', ref_wmo: 4935}
+- {active: true, hag: null, has: 19.8, id: 818, lat: 65.87, lon: -23.5483, manual: false, name: Þingeyrarflugvöllur, provider_id: 6, ref: vi.is.tinge, ref_provider: '2525', ref_wmo: 4807}
+- {active: true, hag: null, has: 30.0, id: 819, lat: 66.05, lon: -23.51, manual: false, name: Flateyri, provider_id: 6, ref: vi.is.feyri, ref_provider: '2631', ref_wmo: 4113}
+- {active: true, hag: null, has: 150.6, id: 820, lat: 66.0444, lon: -23.3074, manual: false, name: Þverfjall, provider_id: 6, ref: vi.is.tverf, ref_provider: '2636', ref_wmo: 4109}
+- {active: true, hag: null, has: 110.0, id: 821, lat: 66.0759, lon: -23.1987, manual: false, name: Seljalandsdalur, provider_id: 6, ref: vi.is.selja, ref_provider: '2640', ref_wmo: 4107}
+- {active: true, hag: null, has: 56.6, id: 822, lat: 66.0687, lon: -23.2103, manual: false, name: Seljalandsdalur - skíðaskáli, provider_id: 6, ref: vi.is.selsk, ref_provider: '2641', ref_wmo: 4819}
+- {active: true, hag: null, has: 22.0, id: 823, lat: 66.0596, lon: -23.1699, manual: false, name: Ísafjörður, provider_id: 6, ref: vi.is.isafj, ref_provider: '2642', ref_wmo: 4117}
+- {active: true, hag: null, has: 10.9, id: 824, lat: 66.0426, lon: -22.986, manual: false, name: Súðavík, provider_id: 6, ref: vi.is.sudav, ref_provider: '2646', ref_wmo: 4111}
+- {active: true, hag: null, has: 21.0, id: 825, lat: 66.1006, lon: -22.6594, manual: false, name: Æðey, provider_id: 6, ref: vi.is.aedey, ref_provider: '2655', ref_wmo: 4017}
+- {active: true, hag: null, has: 31.0, id: 826, lat: 65.9951, lon: -21.3304, manual: false, name: Gjögurflugvöllur, provider_id: 6, ref: vi.is.gjogr, ref_provider: '2692', ref_wmo: 4131}
+- {active: true, hag: null, has: 27.0, id: 827, lat: 66.161, lon: -23.2538, manual: false, name: Bolungarvík, provider_id: 6, ref: vi.is.bolun, ref_provider: '2738', ref_wmo: 4127}
+- {active: true, hag: null, has: null, id: 828, lat: 66.2962, lon: -22.964, manual: false, name: Sléttunes Jökulfjörðum, provider_id: 6, ref: vi.is.slett, ref_provider: '2841', ref_wmo: 4913}
+- {active: true, hag: null, has: 22.0, id: 829, lat: 66.4107, lon: -22.3789, manual: false, name: Hornbjargsviti, provider_id: 6, ref: vi.is.hornb, ref_provider: '2862', ref_wmo: 4123}
+- {active: true, hag: null, has: 70.0, id: 830, lat: 66.433, lon: -23.133, manual: false, name: Straumnesviti, provider_id: 6, ref: vi.is.strnv, ref_provider: '2941', ref_wmo: 4121}
+- {active: true, hag: null, has: 76.6, id: 831, lat: 65.123, lon: -20.6961, manual: false, name: Austurárdalsháls, provider_id: 6, ref: vi.is.audal, ref_provider: '3007', ref_wmo: 4945}
+- {active: true, hag: null, has: 157.0, id: 832, lat: 65.0628, lon: -18.8383, manual: false, name: Sáta, provider_id: 6, ref: vi.is.satax, ref_provider: '3054', ref_wmo: 4861}
+- {active: true, hag: null, has: 26.0, id: 833, lat: 65.1839, lon: -20.7851, manual: false, name: Haugur, provider_id: 6, ref: vi.is.haugr, ref_provider: '3103', ref_wmo: 4143}
+- {active: true, hag: null, has: 101.8, id: 834, lat: 65.2224, lon: -20.0562, manual: false, name: Grímstunguheiði, provider_id: 6, ref: vi.is.gritu, ref_provider: '3122', ref_wmo: 4969}
+- {active: false, hag: null, has: 98.0, id: 835, lat: 65.3139, lon: -19.8472, manual: false, name: Auðkúluheiði Friðmundarvötn, provider_id: 6, ref: vi.is.auhei, ref_provider: '3128', ref_wmo: 4947}
+- {active: true, hag: null, has: 20.0, id: 836, lat: 65.3784, lon: -20.2473, manual: false, name: Brúsastaðir, provider_id: 6, ref: vi.is.brusa, ref_provider: '3223', ref_wmo: 4147}
+- {active: true, hag: null, has: 100.8, id: 837, lat: 65.233, lon: -19.717, manual: false, name: Kolka, provider_id: 6, ref: vi.is.kolka, ref_provider: '3225', ref_wmo: 4149}
+- {active: true, hag: null, has: 23.0, id: 838, lat: 65.4583, lon: -19.3691, manual: false, name: Nautabú, provider_id: 6, ref: vi.is.nauta, ref_provider: '3242', ref_wmo: 4135}
+- {active: true, hag: null, has: 81.0, id: 839, lat: 65.3419, lon: -17.2432, manual: false, name: Svartárkot, provider_id: 6, ref: vi.is.svkot, ref_provider: '3292', ref_wmo: 4153}
+- {active: true, hag: null, has: 80.0, id: 840, lat: 65.658, lon: -20.2925, manual: false, name: Blönduós, provider_id: 6, ref: vi.is.bldos, ref_provider: '3317', ref_wmo: 4145}
+- {active: true, hag: null, has: 25.79, id: 841, lat: 65.501, lon: -18.1616, manual: false, name: Torfur, provider_id: 6, ref: vi.is.torfr, ref_provider: '3371', ref_wmo: 4961}
+- {active: true, hag: null, has: 44.0, id: 842, lat: 65.5851, lon: -17.7667, manual: false, name: Reykir í Fnjóskadal, provider_id: 6, ref: vi.is.reykf, ref_provider: '3380', ref_wmo: 4867}
+- {active: true, hag: null, has: 2.5, id: 843, lat: 65.7259, lon: -19.5737, manual: false, name: Sauðárkrókur flugvöllur, provider_id: 6, ref: vi.is.skrok, ref_provider: '3433', ref_wmo: 4953}
+- {active: true, hag: null, has: 15.0, id: 844, lat: 65.7706, lon: -18.2513, manual: false, name: Möðruvellir, provider_id: 6, ref: vi.is.modru, ref_provider: '3463', ref_wmo: 4167}
+- {active: false, hag: null, has: 23.0, id: 845, lat: 65.6856, lon: -18.1002, manual: false, name: Akureyri lögreglustöð, provider_id: 6, ref: vi.is.akeyr, ref_provider: '3470', ref_wmo: 4937}
+- {active: true, hag: null, has: 31.0, id: 846, lat: 65.6961, lon: -18.1113, manual: false, name: Akureyri - Krossanesbraut, provider_id: 6, ref: vi.is.akurk, ref_provider: '3471', ref_wmo: 4137}
+- {active: true, hag: null, has: 116.0, id: 847, lat: 65.7485, lon: -18.0011, manual: false, name: Vaðlaheiði, provider_id: 6, ref: vi.is.vadla, ref_provider: '3474', ref_wmo: 4163}
+- {active: true, hag: null, has: 24.0, id: 848, lat: 65.817, lon: -17.8857, manual: false, name: Végeirsstaðir í Fnjóskadal, provider_id: 6, ref: vi.is.vegei, ref_provider: '3477', ref_wmo: 4141}
+- {active: true, hag: null, has: 78.0, id: 849, lat: 65.7873, lon: -17.0035, manual: false, name: Gæsafjöll, provider_id: 6, ref: vi.is.gaesa, ref_provider: '3490', ref_wmo: 4971}
+- {active: true, hag: null, has: 40.0, id: 850, lat: 65.821, lon: -17.3446, manual: false, name: Staðarhóll, provider_id: 6, ref: vi.is.sholl, ref_provider: '3591', ref_wmo: 4835}
+- {active: true, hag: null, has: 70.0, id: 851, lat: 65.8914, lon: -17.2268, manual: false, name: Sóleyjarflatamelar, provider_id: 6, ref: vi.is.soley, ref_provider: '3595', ref_wmo: 4977}
+- {active: true, hag: null, has: 50.0, id: 852, lat: 66.0739, lon: -18.6656, manual: false, name: Ólafsfjörður, provider_id: 6, ref: vi.is.olfjo, ref_provider: '3658', ref_wmo: 4155}
+- {active: true, hag: null, has: 40.0, id: 853, lat: 65.9739, lon: -18.5257, manual: false, name: Dalvík, provider_id: 6, ref: vi.is.dalvk, ref_provider: '3662', ref_wmo: 4161}
+- {active: true, hag: null, has: 25.0, id: 854, lat: 66.0451, lon: -17.3541, manual: false, name: Húsavíkurhöfn, provider_id: 6, ref: vi.is.husav, ref_provider: '3691', ref_wmo: 4863}
+- {active: false, hag: null, has: 14.9, id: 855, lat: 66.0768, lon: -17.3609, manual: false, name: Bakkahöfði við Húsavík, provider_id: 6, ref: vi.is.husbk, ref_provider: '3692', ref_wmo: 4845}
+- {active: false, hag: null, has: 15.9, id: 856, lat: 66.0236, lon: -17.3794, manual: false, name: Gvendarbás við Húsavík, provider_id: 6, ref: vi.is.husgv, ref_provider: '3693', ref_wmo: 4847}
+- {active: false, hag: null, has: 38.8, id: 857, lat: 66.0539, lon: -17.3192, manual: false, name: Húsavíkurfjall, provider_id: 6, ref: vi.is.husfj, ref_provider: '3694', ref_wmo: 4849}
+- {active: false, hag: null, has: 30.0, id: 858, lat: 66.0804, lon: -17.3216, manual: false, name: Húsavík Héðinshöfði, provider_id: 6, ref: vi.is.hushh, ref_provider: '3695', ref_wmo: 4969}
+- {active: true, hag: null, has: 28.2, id: 859, lat: 66.0418, lon: -17.3281, manual: false, name: Húsavík, provider_id: 6, ref: vi.is.husvk, ref_provider: '3696', ref_wmo: 4171}
+- {active: true, hag: null, has: 90.0, id: 860, lat: 66.1192, lon: -20.0989, manual: false, name: Skagatá, provider_id: 6, ref: vi.is.skagt, ref_provider: '3720', ref_wmo: 4151}
+- {active: true, hag: null, has: 60.0, id: 861, lat: 66.1349, lon: -18.919, manual: false, name: Siglufjörður, provider_id: 6, ref: vi.is.sifjo, ref_provider: '3752', ref_wmo: 4157}
+- {active: true, hag: null, has: 80.0, id: 862, lat: 66.1938, lon: -18.8431, manual: false, name: Siglunes, provider_id: 6, ref: vi.is.sines, ref_provider: '3754', ref_wmo: 4159}
+- {active: true, hag: null, has: 22.0, id: 863, lat: 66.1631, lon: -17.8408, manual: false, name: Flatey á Skjálfanda, provider_id: 6, ref: vi.is.flats, ref_provider: '3779', ref_wmo: 4965}
+- {active: true, hag: null, has: 17.0, id: 864, lat: 66.1994, lon: -17.1028, manual: false, name: Mánárbakki, provider_id: 6, ref: vi.is.manar, ref_provider: '3797', ref_wmo: 4847}
+- {active: false, hag: null, has: 16.0, id: 865, lat: 66.533, lon: -18.017, manual: false, name: Grímsey, provider_id: 6, ref: vi.is.grims, ref_provider: '3975', ref_wmo: 4165}
+- {active: true, hag: null, has: 19.0, id: 866, lat: 66.5438, lon: -18.0167, manual: false, name: Grímsey, provider_id: 6, ref: vi.is.grimy, ref_provider: '3976', ref_wmo: 4165}
+- {active: true, hag: null, has: 112.6, id: 867, lat: 65.0606, lon: -16.2104, manual: false, name: Upptyppingar, provider_id: 6, ref: vi.is.uppty, ref_provider: '4019', ref_wmo: 4177}
+- {active: false, hag: null, has: 110.4, id: 868, lat: 65.0791, lon: -16.2066, manual: false, name: Krepputunga I, provider_id: 6, ref: vi.is.krepp, ref_provider: '4020', ref_wmo: null}
+- {active: true, hag: null, has: 60.0, id: 869, lat: 65.0942, lon: -14.7447, manual: false, name: Hallormsstaður, provider_id: 6, ref: vi.is.hallm, ref_provider: '4060', ref_wmo: 4189}
+- {active: true, hag: null, has: 92.4, id: 870, lat: 65.2814, lon: -14.0004, manual: false, name: Seyðisfjörður, provider_id: 6, ref: vi.is.seyfj, ref_provider: '4180', ref_wmo: 4195}
+- {active: true, hag: null, has: 80.0, id: 871, lat: 65.2651, lon: -14.0329, manual: false, name: Seyðisfjörður - Kálfabotnar, provider_id: 6, ref: vi.is.seyka, ref_provider: '4181', ref_wmo: 4995}
+- {active: true, hag: null, has: 10.0, id: 872, lat: 65.2681, lon: -13.575, manual: false, name: Dalatangi, provider_id: 6, ref: vi.is.dalat, ref_provider: '4193', ref_wmo: 4197}
+- {active: true, hag: null, has: 23.5, id: 873, lat: 65.2762, lon: -14.4046, manual: false, name: Egilsstaðaflugvöllur, provider_id: 6, ref: vi.is.egils, ref_provider: '4271', ref_wmo: 4191}
+- {active: true, hag: null, has: 189.8, id: 874, lat: 65.2235, lon: -14.2589, manual: false, name: Gagnheiði, provider_id: 6, ref: vi.is.gagnh, ref_provider: '4275', ref_wmo: 4193}
+- {active: true, hag: null, has: 56.46, id: 875, lat: 65.6196, lon: -16.9768, manual: false, name: Mývatn, provider_id: 6, ref: vi.is.myvtn, ref_provider: '4300', ref_wmo: 4173}
+- {active: false, hag: null, has: null, id: 876, lat: 65.6417, lon: -16.8917, manual: false, name: Reykjahlíð, provider_id: 6, ref: vi.is.rhlid, ref_provider: '4302', ref_wmo: 4929}
+- {active: false, hag: null, has: 69.4, id: 877, lat: 65.6297, lon: -16.8371, manual: false, name: Bjarnarflag, provider_id: 6, ref: vi.is.bflag, ref_provider: '4303', ref_wmo: 4885}
+- {active: false, hag: null, has: null, id: 878, lat: 65.6249, lon: -16.9224, manual: false, name: Vogar, provider_id: 6, ref: vi.is.vogar, ref_provider: '4304', ref_wmo: 4931}
+- {active: true, hag: null, has: 78.0, id: 879, lat: 65.6422, lon: -16.1284, manual: false, name: Grímsstaðir á Fjöllum, provider_id: 6, ref: vi.is.grist, ref_provider: '4323', ref_wmo: 4941}
+- {active: false, hag: null, has: null, id: 880, lat: 65.63, lon: -14.27, manual: false, name: Húsey, provider_id: 6, ref: vi.is.husey, ref_provider: '4374', ref_wmo: null}
+- {active: false, hag: null, has: 112.0, id: 881, lat: 65.7101, lon: -16.8786, manual: false, name: Krókóttuvötn Reykjahlíðarheiði, provider_id: 6, ref: vi.is.kroko, ref_provider: '4404', ref_wmo: 4971}
+- {active: true, hag: null, has: 91.0, id: 882, lat: 65.6945, lon: -19.7748, manual: false, name: Krafla, provider_id: 6, ref: vi.is.krafl, ref_provider: '4406', ref_wmo: 4987}
+- {active: true, hag: null, has: 44.0, id: 883, lat: 65.7035, lon: -14.8208, manual: false, name: Skjaldþingsstaðir, provider_id: 6, ref: vi.is.skjal, ref_provider: '4455', ref_wmo: 4985}
+- {active: true, hag: null, has: 20.0, id: 884, lat: 65.783, lon: -14.317, manual: false, name: Bjarnarey, provider_id: 6, ref: vi.is.bjarn, ref_provider: '4472', ref_wmo: 4187}
+- {active: true, hag: null, has: 62.2, id: 885, lat: 65.911, lon: -16.9762, manual: false, name: Þeistareykir, provider_id: 6, ref: vi.is.teist, ref_provider: '4500', ref_wmo: 4967}
+- {active: false, hag: null, has: null, id: 886, lat: 65.93, lon: -14.84, manual: false, name: Sandvíkurheiði LV, provider_id: 6, ref: vi.is.sanhd, ref_provider: '4560', ref_wmo: null}
+- {active: true, hag: null, has: 38.0, id: 887, lat: 66.0299, lon: -16.4833, manual: false, name: Ásbyrgi, provider_id: 6, ref: vi.is.asbrg, ref_provider: '4614', ref_wmo: 4179}
+- {active: true, hag: null, has: 25.0, id: 888, lat: 66.0668, lon: -15.0799, manual: false, name: Miðfjarðarnes, provider_id: 6, ref: vi.is.midfj, ref_provider: '4652', ref_wmo: 4983}
+- {active: true, hag: null, has: 40.0, id: 889, lat: 66.456, lon: -15.9527, manual: false, name: Raufarhöfn, provider_id: 6, ref: vi.is.raufa, ref_provider: '4828', ref_wmo: 4877}
+- {active: true, hag: null, has: 90.0, id: 890, lat: 65.3754, lon: -15.8833, manual: false, name: Möðrudalur, provider_id: 6, ref: vi.is.modal, ref_provider: '4830', ref_wmo: 4181}
+- {active: false, hag: null, has: null, id: 891, lat: 66.4, lon: -15.81, manual: false, name: Landsendi, provider_id: 6, ref: vi.is.lande, ref_provider: '4832', ref_wmo: null}
+- {active: true, hag: null, has: 43.0, id: 892, lat: 66.3784, lon: -14.5326, manual: false, name: Fontur, provider_id: 6, ref: vi.is.fontr, ref_provider: '4867', ref_wmo: 4183}
+- {active: true, hag: null, has: 59.3, id: 893, lat: 66.5082, lon: -16.5444, manual: false, name: Rauðinúpur, provider_id: 6, ref: vi.is.raudi, ref_provider: '4912', ref_wmo: 4175}
+- {active: false, hag: null, has: null, id: 894, lat: 63.82, lon: -16.69, manual: false, name: Leirur á Skeiðarársandi, provider_id: 6, ref: vi.is.leirs, ref_provider: '5208', ref_wmo: null}
+- {active: true, hag: null, has: 57.2, id: 895, lat: 63.8028, lon: -16.6509, manual: false, name: Ingólfshöfði, provider_id: 6, ref: vi.is.ingol, ref_provider: '5210', ref_wmo: 4884}
+- {active: true, hag: null, has: 16.0, id: 896, lat: 63.8743, lon: -16.6364, manual: false, name: Fagurhólsmýri, provider_id: 6, ref: vi.is.fagho, ref_provider: '5309', ref_wmo: 4174}
+- {active: true, hag: null, has: 30.0, id: 897, lat: 63.9777, lon: -16.4365, manual: false, name: Kvísker, provider_id: 6, ref: vi.is.ksker, ref_provider: '5316', ref_wmo: 4970}
+- {active: true, hag: null, has: 50.0, id: 898, lat: 64.2691, lon: -15.2135, manual: false, name: Höfn í Hornafirði, provider_id: 6, ref: vi.is.hofnh, ref_provider: '5544', ref_wmo: 4192}
+- {active: false, hag: null, has: 17.0, id: 899, lat: 64.3101, lon: -15.2209, manual: false, name: Akurnes, provider_id: 6, ref: vi.is.akurn, ref_provider: '5548', ref_wmo: 4192}
+- {active: true, hag: null, has: 40.0, id: 900, lat: 64.2319, lon: -15.2003, manual: false, name: Hvanney, provider_id: 6, ref: vi.is.horfj, ref_provider: '5552', ref_wmo: 4182}
+- {active: true, hag: null, has: 49.0, id: 901, lat: 64.5912, lon: -14.1747, manual: false, name: Papey, provider_id: 6, ref: vi.is.papey, ref_provider: '5777', ref_wmo: 4194}
+- {active: true, hag: null, has: 149.64, id: 902, lat: 64.8281, lon: -16.0897, manual: false, name: Brúaröræfi, provider_id: 6, ref: vi.is.bruor, ref_provider: '5825', ref_wmo: 4978}
+- {active: true, hag: null, has: 150.0, id: 903, lat: 64.8161, lon: -15.3228, manual: false, name: Innri Sauðá, provider_id: 6, ref: vi.is.sauda, ref_provider: '5847', ref_wmo: null}
+- {active: false, hag: null, has: 171.0, id: 904, lat: 64.7722, lon: -15.0517, manual: false, name: Sauðahnjúkur, provider_id: 6, ref: vi.is.shnju, ref_provider: '5853', ref_wmo: 4882}
+- {active: false, hag: null, has: 118.0, id: 905, lat: 64.7981, lon: -14.7899, manual: false, name: Líkárvatn, provider_id: 6, ref: vi.is.likar, ref_provider: '5860', ref_wmo: 4888}
+- {active: true, hag: null, has: 20.7, id: 906, lat: 64.6757, lon: -14.3444, manual: false, name: Teigarhorn, provider_id: 6, ref: vi.is.teiga, ref_provider: '5872', ref_wmo: 4184}
+- {active: true, hag: null, has: 29.8, id: 907, lat: 64.8012, lon: -13.8423, manual: false, name: Kambanes, provider_id: 6, ref: vi.is.kamba, ref_provider: '5885', ref_wmo: 4196}
+- {active: true, hag: null, has: 169.0, id: 908, lat: 64.728, lon: -16.1117, manual: false, name: Brúarjökull B10, provider_id: 6, ref: vi.is.bruar, ref_provider: '5932', ref_wmo: 4982}
+- {active: true, hag: null, has: 127.8, id: 909, lat: 64.9284, lon: -15.7771, manual: false, name: Kárahnjúkar, provider_id: 6, ref: vi.is.karah, ref_provider: '5933', ref_wmo: 4176}
+- {active: true, hag: null, has: 74.6, id: 910, lat: 65.1086, lon: -15.5297, manual: false, name: Brú á Jökuldal, provider_id: 6, ref: vi.is.brujd, ref_provider: '5940', ref_wmo: 4169}
+- {active: true, hag: null, has: 131.064, id: 911, lat: 64.8151, lon: -15.4235, manual: false, name: Eyjabakkar, provider_id: 6, ref: vi.is.eyjab, ref_provider: '5943', ref_wmo: 4178}
+- {active: false, hag: null, has: 131.0, id: 912, lat: 64.917, lon: -15.35, manual: false, name: Stórilækur, provider_id: 6, ref: vi.is.storl, ref_provider: '5945', ref_wmo: null}
+- {active: true, hag: null, has: 114.622, id: 913, lat: 65.0795, lon: -14.6748, manual: false, name: Hallormsstaðaháls, provider_id: 6, ref: vi.is.hhals, ref_provider: '5960', ref_wmo: 4190}
+- {active: true, hag: null, has: 60.0, id: 914, lat: 64.9957, lon: -14.5106, manual: false, name: Brúðardalur, provider_id: 6, ref: vi.is.bruda, ref_provider: '5968', ref_wmo: 4980}
+- {active: true, hag: null, has: 100.0, id: 915, lat: 65.0009, lon: -14.4625, manual: false, name: Þórdalsheiði, provider_id: 6, ref: vi.is.tordh, ref_provider: '5969', ref_wmo: 4979}
+- {active: true, hag: null, has: 128.0, id: 916, lat: 65.0182, lon: -14.4535, manual: false, name: Hallsteinsdalsvarp, provider_id: 6, ref: vi.is.halls, ref_provider: '5970', ref_wmo: 4981}

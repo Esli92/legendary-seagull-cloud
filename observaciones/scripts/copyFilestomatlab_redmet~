@@ -1,0 +1,101 @@
+#!/bin/bash
+
+cd ../limpiezaMatlab/REDMET
+
+rm -rf df
+
+cp -r template df
+
+#Renombrando estaciones
+cd ../../dataFiles/processed
+rename 's:_altzo_:_altzom_:g' *.txt 
+rename 's:_cdaltam_:_cdalta_:g' *.txt
+rename 's:_ecogu_:_ecogua_:g' *.txt
+rename 's:_huama_:_huaman_:g' *.txt
+rename 's:_huauchi_:_huauch_:g' *txt
+rename 's:_igual_:_iguala_:g' *.txt
+rename 's:_imta_:_imteag_:g' *.txt
+rename 's:_izuc_:_izucar_:g' *.txt
+rename 's:_lagzemp_:_lagzem_:g' *.txt
+rename 's:_lamalin01_:_lama01_:g' *.txt
+rename 's:_lamalin02_:_lama02_:g' *.txt
+rename 's:_mmona01_:_mona01_:g' *.txt
+rename 's:_mmona02_:_mona02_:g' *.txt
+rename 's:_teca_:_tecama_:g' *.txt
+rename 's:_tepoz_:_tepozt_:g' *.txt
+rename 's:_tezon_:_tezont_:g' *.txt
+rename 's:_tresm_:_tresma_:g' *.txt
+
+cd ../../limpiezaMatlab/EMAS_centro_mexico
+
+estacion=altzom
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=cdalta
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=ecogua
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=elchic
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=encb02
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=huaman
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=huauch
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=huicha
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=huimil
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=iguala
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=imteag
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=izucar
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=lagzem
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=lama01
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=lama02
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=mona01
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=mona02
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=pqizta
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=shuaut
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=tecama
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=tepozt
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=tezont
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=tresma
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015
+
+estacion=vabrav
+cp ../../dataFiles/processed/??_${estacion}_* df/${estacion}/2015

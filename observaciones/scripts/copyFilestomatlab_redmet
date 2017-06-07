@@ -1,0 +1,81 @@
+#!/bin/bash
+
+cd ../limpiezaMatlab/REDMET
+
+rm -rf df
+
+cp -r template df
+
+
+
+estacion=ACO
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=AJM
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=AJU
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=BJU
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=CHO
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=CUA
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=CUT
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=FAC
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=GAM
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=HGM
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=INN
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=MER
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=MGH
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=MON
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=NEZ
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=PED
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=SAG
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=SFE
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=TAH
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=TLA
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=UAX
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=UIZ
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=VIF
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015
+
+estacion=XAL
+cp ../../dataFiles/processed_redmet_mensual/??_${estacion}_* df/${estacion}/2015

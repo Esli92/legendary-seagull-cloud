@@ -1,0 +1,8 @@
+#------- ESTACION STATION -----------------------------------------------------------------------------------------------------------------------------
+DAT_RESOLUTION_SEASON_STATION <- read.table("./l24h/0pRESOLUTION/seasonal/SEASON/STATION_SEASON_VARIABLE.txt",sep = ",", header = TRUE, fill = FALSE)
+OBS_RESOLUTION_SEASON_STATION <- DAT_RESOLUTION_SEASON_STATION$OBSERVACION
+FCT_RESOLUTION_SEASON_STATION <- DAT_RESOLUTION_SEASON_STATION$PRONOSTICO
+
+#TAYLOR ADD POINT
+taylor.diagram(OBS_RESOLUTION_SEASON_STATION,FCT_RESOLUTION_SEASON_STATION,add=TRUE,col="COLOR",normalize=TRUE,pch=SHAPE)
+

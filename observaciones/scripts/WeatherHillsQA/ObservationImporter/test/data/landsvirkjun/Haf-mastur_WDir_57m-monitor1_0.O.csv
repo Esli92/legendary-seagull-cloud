@@ -1,0 +1,22 @@
+Station Site:	B�rfell
+Station Name:	Haf - mastur
+Station Number:	201304230000
+LocalX:	464555.468800
+LocalY:	403270.228300
+Datum:	---
+Parameter Name:	WDir_57m
+Parameter Type:	WDir
+Parameter Type Name:	---
+Time series Name:	BUR/201304230000/WDir_04/Dir.O
+Time series Unit:	�
+GlobalX:	464555.470000
+GlobalY:	403270.230000
+Longitude:	-19.727757
+Latitude:	64.130489
+Date,Time,Value [�],State of value
+23.04.2013,10:30:00,136.0,200 (Unchecked)
+23.04.2013,10:40:00,134.1,200 (Unchecked)
+23.04.2013,10:50:00,125.9,200 (Unchecked)
+23.04.2013,11:00:00,123.6,200 (Unchecked)
+23.04.2013,11:10:00,119.4,200 (Unchecked)
+23.04.2013,11:19:00,---,200 (Unchecked)

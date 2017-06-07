@@ -1,0 +1,1 @@
+STAT0p5,STAT0p25,Diff,day5,day25

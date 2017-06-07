@@ -1,0 +1,1 @@
+/home/esli/Documentos/WRF/experimentos/verificacion/observaciones/dataFiles/processed_ema_year/ecogua/2015/TM/ecogua_TM.txt

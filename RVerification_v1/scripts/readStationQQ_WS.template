@@ -1,0 +1,8 @@
+#------- ESTACION STATION -----------------------------------------------------------------------------------------------------------------------------
+DAT_RESOLUTION_SEASON_STATION <- read.table("../INTERVALOh/0pRESOLUTION/seasonal/SEASON/STATION_SEASON_VARIABLE.txt",sep = ",", header = TRUE, fill = FALSE)
+OBS_RESOLUTION_SEASON_STATION <- DAT_RESOLUTION_SEASON_STATION$OBSERVACION
+FCT_RESOLUTION_SEASON_STATION <- DAT_RESOLUTION_SEASON_STATION$PRONOSTICO
+#Diagrama QQ
+jpeg(file = "../plots/seasonal/SEASON_VARIABLE_STATION_RESOLUTION.jpg", width=850,height=750,units="px",quality=90)
+conditional_quantile(FCT_RESOLUTION_SEASON_STATION,OBS_RESOLUTION_SEASON_STATION, main = "Grafico Cuantil-Cuantil WRF inicializado con 0.RESOLUTION STATION SEASON VARIABLE",ylab = "Valor Observado (m/s)", xlab = "Valor pronosticado (m/s)")
+dev.off()

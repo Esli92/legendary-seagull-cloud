@@ -1,0 +1,14 @@
+2016-12-14 17:43:27 |    INFO | Configured logging from logging.yml
+2016-12-14 17:43:27 |    INFO | Reading provider and stations from file stations_meta.yml
+2016-12-14 17:43:27 |    INFO | Loaded 20 stations for provider Red_Monitoreo_Atmosferico
+2016-12-14 17:43:27 |    INFO | Inserted provider Red_Monitoreo_Atmosferico with ref rama.redmet
+2016-12-14 17:43:27 |    INFO | Found data for 20 stations.
+2016-12-14 17:43:27 |    INFO | Making sure all (20) entries have the same keys set...
+2016-12-14 17:43:27 |    INFO | Inserting 20 values to DB...
+2016-12-14 17:45:02 |    INFO | Configured logging from logging.yml
+2016-12-14 17:45:02 |    INFO | Reading provider and stations from file stations_meta_ema.yml
+2016-12-14 17:45:02 |    INFO | Loaded 15 stations for provider Servicio_Met_Nacional
+2016-12-14 17:45:02 |    INFO | Inserted provider Servicio_Met_Nacional with ref smn.ema
+2016-12-14 17:45:02 |    INFO | Found data for 15 stations.
+2016-12-14 17:45:02 |    INFO | Making sure all (15) entries have the same keys set...
+2016-12-14 17:45:02 |    INFO | Inserting 15 values to DB...

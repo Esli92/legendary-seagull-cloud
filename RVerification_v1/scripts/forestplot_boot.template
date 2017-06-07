@@ -1,0 +1,57 @@
+#Verification for each station, daily results in monthly series
+
+#This program for R takes the difference between resolutions of MAE,MSE and ME results from individual daily stations
+#and does a bootstrap non parametric test for difference of means to see if they come from the same population.
+#Ho : x1 = x2
+#Programmer Oscar Jurado (ojurado@ciencias.unam.mx)
+#Creation date: March-2017
+
+#------------------Requisites------------------------------------------------------------
+#  
+
+
+#-----------------Version---------------------------------------------------------------
+#v1.0 11/Sep/16 Program is created
+
+#----------------Known issues-----------------------------------------------------------
+
+#-----------------Local directories----------------------------------------------------- 
+
+
+#-----------------BEGIN PROGRAM--------------------------------------------------------
+
+#load required libraries
+
+library(forestplot)
+
+#load file
+
+DAT <- read.table("./csv/boot/VARIABLE/ESTADISTICO_SEASON_VARIABLE.csv",sep = ",", header = TRUE, fill = FALSE, stringsAsFactors = FALSE)
+
+#Add 'station' to first row
+
+lo = c(NA,DAT$LOWER)
+up = c(NA,DAT$UPPER)
+me = c(NA,DAT$MEAN)
+tabletext = c('ESTACION',DAT$STATION)
+
+#Make the plot and save to file
+
+t <- cSTORING
+
+fn <- local({
+  i = 0
+  b_clrs = c("mediumblue","red2","green4")
+
+  function(..., clr.line, clr.marker){
+    i <<- i + 1
+    te = t[i]
+    fpDrawNormalCI(..., clr.line = b_clrs[te], clr.marker = b_clrs[te])
+    
+  }
+})
+
+jpeg(file = "forest/ESTADISTICO_SEASON_VARIABLE.jpg", width=800,height=1000,units="px",quality=90)
+forestplot(tabletext,me,lo,up, vertices=TRUE, boxsize = .25, xlab = "Diferencia entre medias, 0.5 - 0.25", clip = c(ABA,ARR), txt_gp = fpTxtGp(xlab = gpar(cex = 1.5), ticks = gpar(cex = 1)), title = "STATUS en SEASON para VARIABLE", fn.ci_norm = fn,  col= fpColors(zero = "black") )
+dev.off()
+

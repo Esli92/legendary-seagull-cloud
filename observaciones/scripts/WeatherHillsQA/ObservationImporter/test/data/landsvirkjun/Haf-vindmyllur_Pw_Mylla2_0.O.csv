@@ -1,0 +1,21 @@
+Station Site:	Búrfell
+Station Name:	Haf - vindmyllur
+Station Number:	201301211250
+LocalX:	464409.980000
+LocalY:	402697.180000
+Datum:	---
+Parameter Name:	Pw_Mylla2
+Parameter Type:	Pw
+Parameter Type Name:	---
+Time series Name:	BUR/201301211250/Pw_02/Cmd.O
+Time series Unit:	kW
+GlobalX:	464409.980000
+GlobalY:	402697.180000
+Longitude:	-19.730608
+Latitude:	64.125334
+Date,Time,Value [kW],State of value
+21.01.2013,12:50:00,0.00,254
+21.01.2013,13:00:00,0.00,254
+21.01.2013,13:10:00,0.00,254
+21.01.2013,13:20:00,0.00,254
+21.01.2013,13:30:00,0.00,254

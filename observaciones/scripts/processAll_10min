@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd ../EMAS_ValleMex
+
+find . -name '*.xls' -exec python leerEma_10min.py {} \;

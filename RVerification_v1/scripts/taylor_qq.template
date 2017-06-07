@@ -1,0 +1,41 @@
+#Verification for each station, all year
+
+#This program for R takes verification-observation pair files from WRF forecasts and uses the verification R package to get statistics and plots. 
+#Programmer Oscar Jurado (ojurado@ciencias.unam.mx)
+#Creation date: 11-Sep-2016
+
+#------------------Requisites------------------------------------------------------------
+#WRF/observations pairs made with mkPairs.sh program.
+#The input file should be in ../24h/0p5/RESOLUTION/
+#verification and plotrix packages must be instEMAed.  
+
+
+#-----------------Version---------------------------------------------------------------
+#v1.0 11/Sep/16 Program is created
+#v2.0 Nov/16 Added Taylor diagrams with plotrix, improved labels on conditional quantile, translated to spanish
+
+#----------------Known issues-----------------------------------------------------------
+#for custom conditional_quantiles axis labels to work, the function must be modified to remove xlab and ylab.
+
+#-----------------Local directories----------------------------------------------------- 
+
+
+#-----------------BEGIN PROGRAM--------------------------------------------------------
+
+#Load required libraries
+library(verification)
+library(plotrix)
+
+source("conditional_quantile_esp.R")
+# RESOLUCION 0.5
+
+#jpeg(file = "../../plots/taylor/TAYLOR_TM_ALL_STATIONS.jpg", width=700,height=700,units="px",quality=90)
+
+#taylor.diagram(OBS_5_ALL_ACO,FCT_5_ALL_ACO,add=FALSE,col="red",pch=19,pos.cor=TRUE,
+               xlab="Desviacion Estandar (°C)",ylab="Desviacion Estandar (°C)",main="Diagrama de Taylor",show.gamma=TRUE,ngamma=4,
+               gamma.col=3,sd.arcs=1,ref.sd=TRUE,sd.method="sample",
+               grad.corr.lines=c(0.2,0.4,0.6,0.8,0.9),
+               pcex=1,cex.axis=1,normalize=TRUE)
+
+#legend(1,1,c("0.25","0.5"),pch = c(19,19), col = c("blue","red"))
+#dev.off()

@@ -1,0 +1,4274 @@
+BULK TIME SERIES V1.0 -----> Indica los siguientes datos
+Toma en cuenta que las fechas salen de un directorio fijo
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET error:  Missing or invalid arguments for LAT option
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET error:  Missing or invalid arguments for LAT option
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SE VA A CORRER GRADS EN MODO BATCH PARA GENERAR LAS GRAFICAS
+
+Grid Analysis and Display System (GrADS) Version 2.1.0
+Copyright (C) 1988-2016 by George Mason University
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.1.0 little-endian readline grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile cairo
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 8.5 11 
+Running in Batch mode
+Open Error:  Can't open description file
+SET Error:  No files open yet
+SET Error:  No files open yet
+Unknown command: 0
+Unknown command: 0
+Unknown command: 0
+No files open
+T time-points: 10
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+SET Error:  No files open yet
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0
+DISPLAY error:  no file open yet
+No files open
+Unknown command: 0

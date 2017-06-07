@@ -1,0 +1,37 @@
+#!/bin/bash
+
+cd ../dataFiles/processed_10min
+
+rename -f 's:(?<!\d)\d_:0$&:g' *.txt
+
+estacion=altzo
+cat [0-9][0-9]_${estacion}_???_15_windSpd.* > 4angel/${estacion}_windSpd.txt
+cat [0-9][0-9]_${estacion}_???_15_windDir.* > 4angel/${estacion}_windDir.txt
+cat [0-9][0-9]_${estacion}_???_15_pressure.* > 4angel/${estacion}_pressure.txt
+
+estacion=pqizta
+cat [0-9][0-9]_${estacion}_???_15_windSpd.* > 4angel/${estacion}_windSpd.txt
+cat [0-9][0-9]_${estacion}_???_15_windDir.* > 4angel/${estacion}_windDir.txt
+cat [0-9][0-9]_${estacion}_???_15_pressure.* > 4angel/${estacion}_pressure.txt
+
+estacion=lagzemp
+cat [0-9][0-9]_${estacion}_???_15_windSpd.* > 4angel/${estacion}_windSpd.txt
+cat [0-9][0-9]_${estacion}_???_15_windDir.* > 4angel/${estacion}_windDir.txt
+cat [0-9][0-9]_${estacion}_???_15_pressure.* > 4angel/${estacion}_pressure.txt
+
+estacion=tresm
+cat [0-9][0-9]_${estacion}_???_15_windSpd.* > 4angel/${estacion}_windSpd.txt
+cat [0-9][0-9]_${estacion}_???_15_windDir.* > 4angel/${estacion}_windDir.txt
+cat [0-9][0-9]_${estacion}_???_15_pressure.* > 4angel/${estacion}_pressure.txt
+
+estacion=imta
+cat [0-9][0-9]_${estacion}_???_15_windSpd.* > 4angel/${estacion}_windSpd.txt
+cat [0-9][0-9]_${estacion}_???_15_windDir.* > 4angel/${estacion}_windDir.txt
+cat [0-9][0-9]_${estacion}_???_15_pressure.* > 4angel/${estacion}_pressure.txt
+
+estacion=tepoz
+cat [0-9][0-9]_${estacion}_???_15_windSpd.* > 4angel/${estacion}_windSpd.txt
+cat [0-9][0-9]_${estacion}_???_15_windDir.* > 4angel/${estacion}_windDir.txt
+cat [0-9][0-9]_${estacion}_???_15_pressure.* > 4angel/${estacion}_pressure.txt
+
+

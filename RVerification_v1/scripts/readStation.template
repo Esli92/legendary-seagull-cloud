@@ -1,0 +1,15 @@
+#Cargamos archivo, uno por estacion
+DAT_RESOLUTION_SEASON_STATION <- read.table("../24h/0pRESOLUTION/seasonal/SEASON/STATION_SEASON_VARIABLE.txt",sep = ",", header = TRUE, fill = FALSE)
+
+
+#Separando las dos columnas
+OBS_RESOLUTION_SEASON_STATION <- DAT_RESOLUTION_SEASON_STATION$OBSERVACION
+FCT_RESOLUTION_SEASON_STATION <- DAT_RESOLUTION_SEASON_STATION$PRONOSTICO
+
+#Agregar punto al diagrama de Taylor
+taylor.diagram(OBS_RESOLUTION_SEASON_STATION,FCT_RESOLUTION_SEASON_STATION,add=TRUE,col="red",normalize=TRUE)
+
+#Diagrama QQ
+#jpeg(file = "../plots/seasonal/SEASON_STATION_RESOLUTION.jpg", width=850,height=750,units="px",quality=90)
+#conditional_quantile(FCT_RESOLUTION_SEASON_STATION,OBS_RESOLUTION_SEASON_STATION, main = "Grafico Cuantil-Cuantil WRF inicializado con 0.RESOLUTION STATION SEASON",ylab = "Valor Observado (°C)", xlab = "Valor pronosticado (°C)")
+#dev.off()

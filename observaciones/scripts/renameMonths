@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd ../dataFiles/processed
+
+rename -f 's:(?<!\d)\d_:0$&:g' *.txt

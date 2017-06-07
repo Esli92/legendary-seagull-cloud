@@ -1,0 +1,4 @@
+
+
+#legend(lpos,lposy,legend=c("0.25 CuMex","0.5 CuMex","0.25 CuBal","0.5 CuBal"),pch=c(19,19,17,17),col=c("red","blue"))
+dev.off()

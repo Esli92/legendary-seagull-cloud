@@ -1,0 +1,21 @@
+Station Site:	B�rfell
+Station Name:	Haf - mastur
+Station Number:	201304230000
+LocalX:	464555.468800
+LocalY:	403270.228300
+Datum:	---
+Parameter Name:	AT_02m
+Parameter Type:	AT
+Parameter Type Name:	---
+Time series Name:	BUR/201304230000/AT_01/Cmd.O
+Time series Unit:	�C
+GlobalX:	464555.470000
+GlobalY:	403270.230000
+Longitude:	-19.727757
+Latitude:	64.130489
+Date,Time,Value [�C],State of value
+23.04.2013,10:30:00,0.7,200 (Unchecked)
+23.04.2013,10:40:00,0.5,200 (Unchecked)
+23.04.2013,10:50:00,0.7,200 (Unchecked)
+23.04.2013,11:00:00,0.8,200 (Unchecked)
+23.04.2013,11:10:00,0.9,200 (Unchecked)

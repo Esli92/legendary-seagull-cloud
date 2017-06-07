@@ -1,0 +1,37 @@
+# The Beaufort scale
+
+Calm: Logn
+Light air: Andvari
+Light breeze: Kul
+Gentle breeze: Gola
+Moderate breeze: Stinnings gola
+Fresh breeze: Kaldi
+Strong breeze: Stinningskaldi
+Near gale: All hvass vindur
+Gale: Hvassviðri
+Strong gale: Stormur
+Storm: Rok
+Violent storm: Ofsaveður
+Hurricane: Fárviðri
+
+
+# Wind directions 
+
+North-northeast: úr norð-norðaustri
+Northeast: úr norðaustri
+East-northeast: úr aust-norðaustri
+East: úr austri
+East-southeast: úr aust-suðaustri
+Southeast: úr suðaustri
+South-southeast: úr suð-suðaustri
+South: úr suðri
+South-southwest: úr suð-suðvestri
+Southwest: úr suðvestri
+West-southwest: úr vest-suðvestri
+West: úr vestri
+West-northwest: úr vest-norðvestri
+Northwest: úr norðvestri
+North-northwest: úr norð-norðvestri
+North: úr norðri
+
+

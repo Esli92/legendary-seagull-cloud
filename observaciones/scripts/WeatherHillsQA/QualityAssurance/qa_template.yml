@@ -1,0 +1,10 @@
+db_url: 'postgresql://user:password@host/weather_hills'
+
+variables: ['wind_dir', 'wind_speed', 'temp', 'rel_hum']  # as the columns in `observation` table say
+stations: ['lv.is.[^.]+']  # example of how to use LV 'normal' stations and not LV windmill ones
+
+# The one below tells over how many minutes between consecutive observations would be considered as 'gap' in data
+# and treated appropriately by the step check.
+# Default in the script is three hours, so unless you want to change that, you don't need to put this key in config).
+
+gap_tolerance_minutes: 180

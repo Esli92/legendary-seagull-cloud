@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# find . -name '*.xls' -exec rename 's/\s//g' {} \;
+
+find . -name '*.xls' -exec rename 's/e15/_ene_15/g' {} \;
+find . -name '*.xls' -exec rename 's/f15/_feb_15/g' {} \;
+find . -name '*.xls' -exec rename 's/mr15/_mar_15/g' {} \;
+find . -name '*.xls' -exec rename 's/ab15/_abr_15/g' {} \;
+find . -name '*.xls' -exec rename 's/my15/_may_15/g' {} \;
+find . -name '*.xls' -exec rename 's/jn15/_jun_15/g' {} \;
+find . -name '*.xls' -exec rename 's/jl15/_jul_15/g' {} \;
+find . -name '*.xls' -exec rename 's/ag15/_ago_15/g' {} \;
+find . -name '*.xls' -exec rename 's/s15/_sep_15/g' {} \;
+find . -name '*.xls' -exec rename 's/o15/_oct_15/g' {} \;
+find . -name '*.xls' -exec rename 's/n15/_nov_15/g' {} \;
+find . -name '*.xls' -exec rename 's/d15/_dic_15/g' {} \;

@@ -1,0 +1,14 @@
+#Load required libraries
+library(verification)
+library(plotrix)
+
+#------- ESTACION STATION -----------------------------------------------------------------------------------------------------------------------------
+#--------RESOLUCION 0pRESOLUTION ----------------------------------------------------------------------------------------------------------------------
+DAT_RESOLUTION_SEASON_STATION <- read.table("INTERVALOh/0pRESOLUTION/seasonal/SEASON/STATION_SEASON_VARIABLE.txt",sep = ",", header = TRUE, fill = FALSE)
+OBS_RESOLUTION_SEASON_STATION <- DAT_RESOLUTION_SEASON_STATION$OBSERVACION
+FCT_RESOLUTION_SEASON_STATION <- DAT_RESOLUTION_SEASON_STATION$PRONOSTICO
+
+#---------Estadisticas de verificacion-------------------------------------
+MOD_RESOLUTION_SEASON_STATION <- verify(OBS_RESOLUTION_SEASON_STATION,FCT_RESOLUTION_SEASON_STATION, frcst.type = "cont", obs.type = "cont")
+
+summary(MOD_RESOLUTION_SEASON_STATION)

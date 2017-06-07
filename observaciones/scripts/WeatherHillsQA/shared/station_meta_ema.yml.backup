@@ -1,0 +1,17 @@
+provider: {name: Servicio_Met_Nacional, ref: smn.ema}
+stations:
+- {has: 4007.0, lat: 19.1186, lon: -98.655, name: Altzomoni, ref: smn.ema.altzom, ref_provider: '2443'}
+- {has: 2200, lat: 19.2713, lon: -99.2038, name: Ecoguardas, ref: smn.ema.ecogua, ref_provider: '2444'}
+- {has: 2240, lat: 19.4986, lon: -99.1452, name: EncbII, ref: smn.ema.encb02, ref_provider: '2445'}
+- {has: 780, lat: 18.3602, lon: -99.5241, name: Iguala, ref: smn.ema.iguala, ref_provider: '2446'}
+- {has: 1355, lat: 18.8822, lon: -99.1569, name: IMTA, ref: smn.ema.imteag, ref_provider: '2447'}
+- {has: 1353, lat: 18.6166, lon: -98.4519, name: Izucarmatam, ref: smn.ema.izucar, ref_provider: '2448'}
+- {has: 2820, lat: 19.0533, lon: -99.3127, name: LagoZempoala, ref: smn.ema.lagzem, ref_provider: '2249'}
+- {has: 3255, lat: 19.6708, lon: -100.2775, name: MonarcaI, ref: smn.ema.mona01, ref_provider: '2250'}
+- {has: 2970, lat: 19.5388, lon: -100.29, name: MonarcaII, ref: smn.ema.mona02, ref_provider: '2251'}
+- {has: 1330, lat: 18.5413, lon: -98.9361, name: SierraHuautla, ref: smn.ema.shuaut, ref_provider: '2252'}
+- {has: 1384, lat: 18.9508, lon: -99.0788, name: Tepoztlan, ref: smn.ema.tepozt, ref_provider: '2253'}
+- {has: 2358, lat: 19.3852, lon: -99.0997, name: Tezontle, ref: smn.ema.tezont, ref_provider: '2254'}
+- {has: 2839, lat: 19.0505, lon: -99.2486, name: Tres_Marias, ref: smn.ema.tresma, ref_provider: '2255'}
+- {has: 2476, lat: 19.3755, lon: -100.0847, name: ValledeBravo, ref: smn.ema.vabrav, ref_provider: '2256'}
+- {has: 3682, lat: 19.0955, lon: -98.6430, name: IztaPopo, ref: smn.ema.pqizta, ref_provider: '2257'}

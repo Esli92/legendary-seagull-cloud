@@ -1,0 +1,137 @@
+#leerRedmet.py 
+#Programa que extrae datos de Redmet en formato .xls para despues separar sus variables y escribirlas en diferentes archivos que pueden ser leidos con mas facilidad, sin encabezado. 
+#Programador Oscar Jurado
+#Fecha de creacion 13 de Junio 2016
+
+#-------------Requisitos--------------------------------------------------------------
+#Para correr el programa se necesita tener la utilidad de python xlrd,csv,numpy instalados. 
+#Los datos de entrada son de la red de estaciones REDMET del sistema de monitoreo atmosferico del valle de mexico (SIMAT), en formato .xls
+#Formato de archivos de tal manera que exista ../dataFiles/processed_redmet
+
+#-------------Uso---------------------------------------------------------------------
+#El programa se corre desde la terminal, poniendo el nombre del archivo a procesar como entrada
+#Ejemplo:
+#python leerRedmet.py altzo_feb_15.xls
+
+
+#----------INICIO DEL PROGRAMA--------------------------------------------------------
+
+#Comenzamos cargando la libreria xlrd, sys, csv, numpy
+import xlrd as xr
+import sys
+import csv
+import numpy as np
+#-----------ABRIR ARCHIVO----------------------------------
+#leemos el archivo
+
+cl_line = sys.argv
+EMA_file = '../15REDMET/2015TMP.xls'
+#EMA_file = cl_line[1]
+open_EMA_file = xr.open_workbook(EMA_file)
+#Y ahora la primer 'hoja' de nuestro archivo
+ws = open_EMA_file.sheet_by_index(0)
+
+#Variable del archivo
+var_str_p = EMA_file.split('/')[-1]
+var_str = var_str_p.split('.')[0]
+var_str = var_str[-3:-1]
+
+#Obtenemos numero de filas y columnas
+num_filas=ws.nrows
+num_cols=ws.ncols
+
+#---------DEFINIR VARIABLES--------------------------------
+year=[]
+day=[]
+month=[]
+hour=[]
+mins=[]
+sec=[]
+temp = []
+windDir=[]
+windSpd=[]
+#RH=[]
+pres=[]
+rain=[]
+rad=[]
+
+#--------FECHA Y HORA---------------------------------------	
+#Primer columna de EMAs
+dates = ws.col_values(0)
+dates = dates[1:num_filas]
+hours = ws.col_values(1)
+hours = hours[1:num_filas]
+
+#Use xldate function to obtain a tuple of the dates from the MS format. Since year have only one value per file, we only store them once
+for line in dates:
+	year,mo,da,ho,mi,se = xr.xldate_as_tuple(line,open_EMA_file.datemode)
+	month.append(mo)
+	day.append(da)
+#Restamos uno a la hora para ser consistente con la numeracion 0-23 de las EMAs
+for line in hours:
+	hour.append(line-1)
+
+#--------OBTENER NOMBRES DE ESTACIONES----------------------
+#La primer fila del archivo contiene los nombres de estaciones, los guardaremos en una lista
+
+names = ws.row_values(0)
+stations = names[2:num_cols]
+#Ahora iremos recorriendo de estacion en estacion
+
+for station in range(len(stations)):
+
+	#Sumamos dos para tomar en cuenta que las primeras dos columnas son fecha y hora)
+	station_data_year = ws.col_values(station+2)
+	station_data_year = station_data_year[1:num_filas]
+	
+	#Ahora, queremos que salga un archivo por mes, por lo que haremos:
+	year_months = range(1,13,1)
+	for mes in year_months:
+		
+		dia_mes = []
+		hour_mes = []
+		station_data = []
+
+		for dia in range(len(day)):
+			if month[dia] == mes:
+				dia_mes.append(dia)
+				hour_mes.append(hour[dia])
+				station_data.append(station_data_year[dia])
+
+
+
+		#----------ESCRIBIENDO LOS ARCHIVOS--------------------------
+
+		#Necesitaremos hacer matrices especificas para cada archivo, esto puede ser modificado de acuerdo a lo que necesitemos.
+		statPrint_b = np.zeros((len(station_data),4))
+		statPrint = statPrint_b.tolist()
+
+		#Para tener VALOR | ANIO | MES | DIA 
+		i = 0
+		for dia_a in dia_mes:
+			statPrint[i][0] = station_data[i]
+			statPrint[i][1] = mes
+			statPrint[i][2] = dia_a
+			statPrint[i][3] = hour_mes[i]
+
+			i = i + 1
+
+		#Y ahora lo escribimos a un archivo
+		#Prueba con el modulo csv
+		name_str = stations[station]
+		stat_str = "../dataFiles/processed_redmet_mensual/{}_{}_{}.txt".format(mes,name_str,var_str)
+
+		stat_file = open(stat_str,"w")
+		mywriter = csv.writer(stat_file, delimiter=',')
+		for line in statPrint:
+			mywriter.writerow(line)
+		stat_file.close()
+
+
+
+
+
+
+
+
+

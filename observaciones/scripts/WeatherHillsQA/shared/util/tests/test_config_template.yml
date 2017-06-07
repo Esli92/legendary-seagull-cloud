@@ -1,0 +1,2 @@
+db_url: 'postgresql://user:password@localhost/weather_hills'
+test_data_source: 'http://betravedur.is/test_data/weather_hills'
